@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>R20 - {{ page.title }}</title>
+    <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
+    <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print"> 
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/css/blueprint/ie.css"
+          type="text/css" media="screen, projection">
+    <![endif]-->
+    <link rel="stylesheet" href="/css/style.css" type="text/css"
+          media="screen" charset="utf-8"/>
+    <script src="/js/jquery-1.6.2.min.js" type="text/javascript"
+            charset="utf-8"></script>
+    <script src="/js/jquery.cross-slide.js" type="text/javascript"
+            charset="utf-8"></script>
+    <script src="/js/script.js" type="text/javascript"
+            charset="utf-8"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="header" class="span-24">
+        <div id="logo" class="span-8 border">
+          <a href="/" class="span-8">Roaring 20</a>
+        </div>
+        <div id="nav" class="span-16 last">
+          <ul>
+            <li><a href="/" class="span-4 border first">Home</a></li>
+            <li><a href="/about" class="span-4 border">About Us</a></li>
+            <li><a href="/music" class="span-4 border">Music</a></li>
+            <li><a href="/auditions" class="span-4 last">Auditions</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main" class="span-24">
+        <div id="slideshow">
+        </div>
+        <div id="content">
+          {{ content }}
+        </div>
+      </div>
+      <div id="footer" class="span-24 quiet">
+        Copyright &copy; 2011 Roaring 20. All rights reserved.
+      </div>
+    </div>
+  </body>
+</html>
