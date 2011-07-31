@@ -1,0 +1,90 @@
+@import "partials/base";
+@import "compass/css3/border-radius";
+@import "compass/typography/links/link-colors";
+
+body {
+    background-color: $body-bg-color;
+}
+
+.container {
+    @include blueprint(true);
+    @include container;
+    @include border-radius(15px);
+    border: 1px solid $navbar-border-color;
+    margin: 20px auto;
+    background-color: $container-bg-color;
+}
+
+#header {
+    @include column(24, true);
+}
+
+#banner {
+    @include column(24, true);
+    height: $banner-height;
+    background-color: $banner-bg-color;
+    a {
+        position: relative;
+        top: 15px;
+        left: 25px;
+        @include link-colors($banner-text-color);
+        text-decoration: none;
+        font-family: MuseoSans-500;
+        font-size: 50px;
+    }
+}
+
+#navbar {
+    @include column(24, true);
+    border-top: 1px solid $navbar-border-color;
+    border-bottom: 1px solid $navbar-border-color;
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        li {
+            float: left;
+            background-color: $navbar-bg-color;
+            a {
+                @include column(4);
+                @include border;
+                &.last {
+                    @include column(4, true);
+                    border: none;
+                    padding: 0;
+                }
+                line-height: $navbar-height;
+                text-align: center;
+                text-decoration: none;
+                font-family: MuseoSans-500;
+                @include link-colors($navbar-text-color);
+                &:hover {
+                    text-shadow: 1px 1px 1px $orange;
+                }
+            }
+        }
+    }
+}
+
+#slideshow {
+    margin: 20px;
+    position: relative;
+    height: 380px;
+    width: 910px;
+    background: url(/images/p1.jpg);
+}
+
+#main {
+    @include column(24, true);
+    #content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+#footer {
+    @include column(24);
+    @include quiet;
+    text-align: center;
+    margin: 15px 0;
+}
