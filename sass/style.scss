@@ -10,7 +10,7 @@ body {
     @include blueprint(true);
     @include container;
     @include border-radius(15px);
-    border: 1px solid $navbar-border-color;
+    border: 1px solid #000000;
     margin: 20px auto;
     background-color: $container-bg-color;
 }
@@ -19,17 +19,18 @@ body {
     @include column(24, true);
 }
 
-#banner {
+#logo {
     @include column(24, true);
-    height: $banner-height;
-    background-color: $banner-bg-color;
+    height: $logo-height;
+    background-color: $logo-bg-color;
     a {
         position: relative;
         top: 15px;
         left: 25px;
-        @include link-colors($banner-text-color);
+        @include link-colors($logo-text-color);
         text-decoration: none;
         font-size: 50px;
+        font-family: Georgia;
     }
 }
 
@@ -41,6 +42,7 @@ body {
         list-style-type: none;
         margin: 0;
         padding: 0;
+        float: left;
         li {
             float: left;
             background-color: $navbar-bg-color;
@@ -55,10 +57,7 @@ body {
                 line-height: $navbar-height;
                 text-align: center;
                 text-decoration: none;
-                @include link-colors($navbar-text-color);
-                &:hover {
-                    text-shadow: 1px 1px 1px $orange;
-                }
+                @include link-colors(#FFFFFF, $orange);
             }
         }
     }
@@ -103,9 +102,23 @@ body {
     }
 }
 
+.left {
+    @include column(16);
+}
+
+.sidebar {
+    @include column(8, true);
+    margin: 20px 0;
+}
+
 #footer {
     @include column(24);
     @include quiet;
     text-align: center;
     margin: 15px 0;
+}
+
+#repertoire {
+    height: 250px;
+    overflow: scroll;
 }

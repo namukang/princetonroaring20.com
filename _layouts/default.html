@@ -18,13 +18,15 @@
             charset="utf-8"></script>
     <script src="/javascripts/jquery.cross-slide.js" type="text/javascript"
             charset="utf-8"></script>
+    {% if page.title == 'Home' %}
     <script src="/javascripts/script.js" type="text/javascript"
             charset="utf-8"></script>
+    {% endif %}
   </head>
   <body>
     <div class="container">
       <div id="header">
-        <div id="banner">
+        <div id="logo">
           <a href="/">Princeton Roaring 20</a>
         </div>
         <div id="navbar">
@@ -53,9 +55,7 @@
         {% when 'Contact Us' %}
         <div id="contact-banner"></div>
         {% endcase %}
-        <div id="content">
-          {{ content }}
-        </div>
+        {{ content }}
       </div>
       <div id="footer">
         {{ permalink }}
