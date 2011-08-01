@@ -41,20 +41,11 @@
         </div>
       </div>
       <div id="main">
-        {% case page.title %}
-        {% when 'Home' %}
-        <div id="slideshow"></div>
-        {% when 'About Us' %}
-        <div id="about-banner"></div>
-        {% when 'Members' %}
-        <div id="members-banner"></div>
-        {% when 'Auditions' %}
-        <div id="auditions-banner"></div>
-        {% when 'Music' %}
-        <div id="music-banner"></div>
-        {% when 'Contact Us' %}
-        <div id="contact-banner"></div>
-        {% endcase %}
+        {% if page.title == 'Home' %}
+        <div id="slideshow" style="background-image: url({{ page.banner }})"></div>
+        {% else %}
+        <div id="banner" style="background-image: url({{ page.banner }})"></div>
+        {% endif %}
         {{ content }}
       </div>
       <div id="footer">

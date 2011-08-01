@@ -1,23 +1,24 @@
 --- 
 layout: two-col
-title: Auditions 
+title: Auditions
+banner: /images/slideshow/p4.jpg
 ---
 
 ## Auditions
 
-### Audition Schedule:
+### Audition Schedule
 
 All interested members of the classes of 2014 and 2015 are welcome
 (and encouraged) to audition for R20. Fall auditions will be held in
 the first week of classes.
 
-### Audition Location: 
+### Audition Location
 
 Auditions take place in our room, 071 Bloomberg.
 
 ![Roaring 20 Room](/images/r20room.jpg)
 
-### Audition Process:
+### Audition Process
 
 The Roaring 20 audition is quite painless and only takes about 15
 minutes.

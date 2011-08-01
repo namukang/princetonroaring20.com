@@ -1172,61 +1172,15 @@ body {
   color: #f2812d;
 }
 
-/* line 74, ../sass/style.scss */
-#slideshow {
+/* line 73, ../sass/style.scss */
+#banner, #slideshow {
   margin: 20px 20px 0 20px;
   position: relative;
   height: 380px;
   width: 910px;
-  background: url("/images/slideshow/p1.jpg");
 }
 
-/* line 78, ../sass/style.scss */
-#about-banner {
-  margin: 20px 20px 0 20px;
-  position: relative;
-  height: 380px;
-  width: 910px;
-  background: url("/images/slideshow/p2.jpg");
-}
-
-/* line 82, ../sass/style.scss */
-#members-banner {
-  margin: 20px 20px 0 20px;
-  position: relative;
-  height: 380px;
-  width: 910px;
-  background: url("/images/slideshow/p3.jpg");
-}
-
-/* line 86, ../sass/style.scss */
-#auditions-banner {
-  margin: 20px 20px 0 20px;
-  position: relative;
-  height: 380px;
-  width: 910px;
-  background: url("/images/slideshow/p4.jpg");
-}
-
-/* line 90, ../sass/style.scss */
-#music-banner {
-  margin: 20px 20px 0 20px;
-  position: relative;
-  height: 380px;
-  width: 910px;
-  background: url("/images/slideshow/p5.jpg");
-}
-
-/* line 94, ../sass/style.scss */
-#contact-banner {
-  margin: 20px 20px 0 20px;
-  position: relative;
-  height: 380px;
-  width: 910px;
-  background: url("/images/slideshow/p6.jpg");
-}
-
-/* line 98, ../sass/style.scss */
+/* line 81, ../sass/style.scss */
 #main {
   display: inline;
   float: left;
@@ -1237,13 +1191,13 @@ body {
 * html #main {
   overflow-x: hidden;
 }
-/* line 100, ../sass/style.scss */
+/* line 83, ../sass/style.scss */
 #main .content {
   padding: 15px 25px 15px 25px;
   float: left;
 }
 
-/* line 106, ../sass/style.scss */
+/* line 89, ../sass/style.scss */
 .left {
   display: inline;
   float: left;
@@ -1255,7 +1209,7 @@ body {
   overflow-x: hidden;
 }
 
-/* line 110, ../sass/style.scss */
+/* line 93, ../sass/style.scss */
 .sidebar {
   display: inline;
   float: left;
@@ -1267,8 +1221,13 @@ body {
 * html .sidebar {
   overflow-x: hidden;
 }
+/* line 96, ../sass/style.scss */
+.sidebar .bio {
+  margin-right: 30px;
+  padding: 15px;
+}
 
-/* line 115, ../sass/style.scss */
+/* line 102, ../sass/style.scss */
 #footer {
   display: inline;
   float: left;
@@ -1283,13 +1242,13 @@ body {
   overflow-x: hidden;
 }
 
-/* line 122, ../sass/style.scss */
+/* line 109, ../sass/style.scss */
 #repertoire {
   height: 250px;
   overflow: scroll;
 }
 
-/* line 127, ../sass/style.scss */
+/* line 114, ../sass/style.scss */
 .col {
   display: inline;
   float: left;

@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<div class="left">
+  <div class="content">
+    <h2>{{ page.fullname }} {{ page.class }} </h2>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2">Quick Facts</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% if page.nickname %}
+        <tr>
+          <th>Nickname</th>
+          <td>{{ page.nickname }}</td>
+        </tr>
+        {% endif %}
+        <tr>
+          <th>Voice Part</th>
+          <td>{{ page.voice }}</td>
+        </tr>
+        {% if page.office %}
+        <tr>
+          <th>Roaring 20 Office</th>
+          <td>{{ page.office }}</td>
+        </tr>
+        {% endif %}
+        {% if page.arrangements %}
+        <tr>
+          <th>Arrangements</th>
+          <td>{{ page.arrangements }}</td>
+        </tr>
+        {% endif %}
+        {% if page.solos %}
+        <tr>
+          <th>Solos</th>
+          <td>{{ page.solos }}</td>
+        </tr>
+        {% endif %}
+        <tr>
+          <th>Major</th>
+          <td>{{ page.major }}</td>
+        </tr>
+        <tr>
+          <th>Hometown</th>
+          <td>{{ page.hometown }}</td>
+        </tr>
+        {% if page.fun-q1 %}
+        <tr>
+          <th>{{ page.fun-q1 }}</th>
+          <td>{{ page.fun-a1 }}</td>
+        </tr>
+        {% endif %}
+        {% if page.fun-q2 %}
+        <tr>
+          <th>{{ page.fun-q2 }}</th>
+          <td>{{ page.fun-a2 }}</td>
+        </tr>
+        {% endif %}
+        {% if page.fun-q3 %}
+        <tr>
+          <th>{{ page.fun-q3 }}</th>
+          <td>{{ page.fun-a3 }}</td>
+        </tr>
+        {% endif %}
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="sidebar">
+  <div class="bio">
+    {{ content }}
+  </div>
+</div>
+

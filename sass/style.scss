@@ -63,36 +63,19 @@ body {
     }
 }
 
-@mixin banner($img) {
+@mixin banner() {
     margin: 20px 20px 0 20px;
     position: relative;
     height: 380px;
     width: 910px;
-    background: url($img);
+}
+
+#banner {
+    @include banner();
 }
 
 #slideshow {
-    @include banner('/images/slideshow/p1.jpg');
-}
-
-#about-banner {
-    @include banner('/images/slideshow/p2.jpg');
-}
-
-#members-banner {
-    @include banner('/images/slideshow/p3.jpg');
-}
-
-#auditions-banner {
-    @include banner('/images/slideshow/p4.jpg');
-}
-
-#music-banner {
-    @include banner('/images/slideshow/p5.jpg');
-}
-
-#contact-banner {
-    @include banner('/images/slideshow/p6.jpg');
+    @extend #banner;
 }
 
 #main {
@@ -110,6 +93,10 @@ body {
 .sidebar {
     @include column(8, true);
     margin: 20px 0;
+    .bio {
+        margin-right: 30px;
+        padding: 15px;
+    }
 }
 
 #footer {
