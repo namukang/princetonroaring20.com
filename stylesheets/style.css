@@ -1238,11 +1238,12 @@ body {
   overflow-x: hidden;
 }
 /* line 100, ../sass/style.scss */
-#main #content {
+#main .content {
   padding: 15px 25px 15px 25px;
+  float: left;
 }
 
-/* line 105, ../sass/style.scss */
+/* line 106, ../sass/style.scss */
 .left {
   display: inline;
   float: left;
@@ -1254,7 +1255,7 @@ body {
   overflow-x: hidden;
 }
 
-/* line 109, ../sass/style.scss */
+/* line 110, ../sass/style.scss */
 .sidebar {
   display: inline;
   float: left;
@@ -1267,7 +1268,7 @@ body {
   overflow-x: hidden;
 }
 
-/* line 114, ../sass/style.scss */
+/* line 115, ../sass/style.scss */
 #footer {
   display: inline;
   float: left;
@@ -1282,8 +1283,20 @@ body {
   overflow-x: hidden;
 }
 
-/* line 121, ../sass/style.scss */
+/* line 122, ../sass/style.scss */
 #repertoire {
   height: 250px;
   overflow: scroll;
+}
+
+/* line 127, ../sass/style.scss */
+.col {
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  width: 310px;
+}
+/* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
+* html .col {
+  overflow-x: hidden;
 }

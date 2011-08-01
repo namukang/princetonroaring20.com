@@ -29,6 +29,10 @@ please contact our Reunions Manager [Michael
 Pearlman](/members/michael) at
 [pearlman@princeton.edu](mailto:pearlman@princeton.edu).
 
+### Email Address
+
+[roaring@princeton.edu](mailto:roaring@princeton.edu)
+
 ### Mailing Address
 
 The Princeton Roaring 20  

@@ -97,8 +97,9 @@ body {
 
 #main {
     @include column(24, true);
-    #content {
+    .content {
         padding: 15px 25px 15px 25px;
+        float: left;
     }
 }
 
@@ -121,4 +122,8 @@ body {
 #repertoire {
     height: 250px;
     overflow: scroll;
+}
+
+.col {
+    @include column(8);
 }
