@@ -1,0 +1,265 @@
+@import "partials/base";
+
+@mixin profile($name) {
+    background: url('/images/members/current/' + $name + '.jpg');
+}
+
+.hidden {
+    display: none;
+}
+
+.section {
+    float: left;
+    h3 {
+        margin-bottom: 0;
+        margin-top: 1em;
+    }
+}
+
+a.profile {
+    float: left;
+    text-decoration: none;
+}
+
+.name {
+    text-align: center;
+    @include link-colors(black);
+}
+
+.image {
+    width: 150px;
+    height: 165px;
+    margin: 5px;
+    border: 1px solid #000000;
+}
+
+// Sopranos
+
+#miyuki {
+    .hidden {
+        @include profile('miyuki-b');
+    }
+    .image {
+        @include profile('miyuki');
+    }
+    &:hover {
+        .image {
+            @include profile('miyuki-b');
+        }
+    }
+}
+
+#anna {
+    .hidden {
+        @include profile('anna-b');
+    }
+    .image {
+        @include profile('anna');
+    }
+    &:hover {
+        .image {
+            @include profile('anna-b');
+        }
+    }
+}
+
+#christina {
+    .hidden {
+        @include profile('christina-b');
+    }
+    .image {
+        @include profile('christina');
+    }
+    &:hover {
+        .image {
+            @include profile('christina-b');
+        }
+    }
+}
+
+#marylou {
+    .hidden {
+        @include profile('marylou-b');
+    }
+    .image {
+        @include profile('marylou');
+    }
+    &:hover {
+        .image {
+            @include profile('marylou-b');
+        }
+    }
+}
+
+// Altos
+
+#cara {
+    .hidden {
+        @include profile('cara-b');
+    }
+    .image {
+        @include profile('cara');
+    }
+    &:hover {
+        .image {
+            @include profile('cara-b');
+        }
+    }
+}
+
+#sarahanne {
+    .hidden {
+        @include profile('sarahanne-b');
+    }
+    .image {
+        @include profile('sarahanne');
+    }
+    &:hover {
+        .image {
+            @include profile('sarahanne-b');
+        }
+    }
+}
+
+#desiree {
+    .hidden {
+        @include profile('desiree-b');
+    }
+    .image {
+        @include profile('desiree');
+    }
+    &:hover {
+        .image {
+            @include profile('desiree-b');
+        }
+    }
+}
+
+#katherine {
+    .hidden {
+        @include profile('katherine-b');
+    }
+    .image {
+        @include profile('katherine');
+    }
+    &:hover {
+        .image {
+            @include profile('katherine-b');
+        }
+    }
+}
+
+// Tenors
+#tingfung {
+    .hidden {
+        @include profile('tingfung-b');
+    }
+    .image {
+        @include profile('tingfung');
+    }
+    &:hover {
+        .image {
+            @include profile('tingfung-b');
+        }
+    }
+}
+
+#michael {
+    .hidden {
+        @include profile('michael-b');
+    }
+    .image {
+        @include profile('michael');
+    }
+    &:hover {
+        .image {
+            @include profile('michael-b');
+        }
+    }
+}
+
+#dk {
+    .hidden {
+        @include profile('dk-b');
+    }
+    .image {
+        @include profile('dk');
+    }
+    &:hover {
+        .image {
+            @include profile('dk-b');
+        }
+    }
+}
+
+#torin {
+    .hidden {
+        @include profile('torin-b');
+    }
+    .image {
+        @include profile('torin');
+    }
+    &:hover {
+        .image {
+            @include profile('torin-b');
+        }
+    }
+}
+
+// Basses
+#peter {
+    .hidden {
+        @include profile('peter-b');
+    }
+    .image {
+        @include profile('peter');
+    }
+    &:hover {
+        .image {
+            @include profile('peter-b');
+        }
+    }
+}
+
+#dj {
+    .hidden {
+        @include profile('dj-b');
+    }
+    .image {
+        @include profile('dj');
+    }
+    &:hover {
+        .image {
+            @include profile('dj-b');
+        }
+    }
+}
+
+#teddy {
+    .hidden {
+        @include profile('teddy-b');
+    }
+    .image {
+        @include profile('teddy');
+    }
+    &:hover {
+        .image {
+            @include profile('teddy-b');
+        }
+    }
+}
+
+#jonah {
+    .hidden {
+        @include profile('jonah-b');
+    }
+    .image {
+        @include profile('jonah');
+    }
+    &:hover {
+        .image {
+            @include profile('jonah-b');
+        }
+    }
+}
+

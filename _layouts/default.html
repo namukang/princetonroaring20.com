@@ -10,8 +10,10 @@
     <![endif]-->
     <link href="/stylesheets/style.css" media="screen" rel="stylesheet"
           type="text/css" />
-    <link rel="stylesheet" type="text/css"
-          href="/fonts/MyFontsWebfontsOrderM3075287.css">
+    {% if page.title == 'Members' %}
+    <link href="/stylesheets/members.css" media="screen" rel="stylesheet"
+          type="text/css" />
+    {% endif %}
     <script src="/javascripts/jquery-1.6.2.min.js" type="text/javascript"
             charset="utf-8"></script>
     <script src="/javascripts/jquery.cross-slide.js" type="text/javascript"
@@ -32,19 +34,32 @@
             <li><a href="/members">Members</a></li>
             <li><a href="/auditions">Auditions</a></li>
             <li><a href="/music">Music</a></li>
-            <li><a href="/contact" class="last">Contact</a></li>
+            <li><a href="/contact" class="last">Contact Us</a></li>
           </ul>
         </div>
       </div>
       <div id="main">
-        <div id="slideshow">
-        </div>
+        {% case page.title %}
+        {% when 'Home' %}
+        <div id="slideshow"></div>
+        {% when 'About Us' %}
+        <div id="about-banner"></div>
+        {% when 'Members' %}
+        <div id="members-banner"></div>
+        {% when 'Auditions' %}
+        <div id="auditions-banner"></div>
+        {% when 'Music' %}
+        <div id="music-banner"></div>
+        {% when 'Contact Us' %}
+        <div id="contact-banner"></div>
+        {% endcase %}
         <div id="content">
           {{ content }}
         </div>
       </div>
       <div id="footer">
-        Copyright &copy; 2011 Roaring 20. All rights reserved.
+        {{ permalink }}
+        Copyright &copy; 2011 Princeton Roaring 20. All rights reserved.
       </div>
     </div>
   </body>

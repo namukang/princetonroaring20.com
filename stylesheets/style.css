@@ -1107,11 +1107,10 @@ body {
   left: 25px;
   color: #f6f6f6;
   text-decoration: none;
-  font-family: MuseoSans-500;
   font-size: 50px;
 }
 
-/* line 37, ../sass/style.scss */
+/* line 36, ../sass/style.scss */
 #navbar {
   display: inline;
   float: left;
@@ -1124,18 +1123,18 @@ body {
 * html #navbar {
   overflow-x: hidden;
 }
-/* line 41, ../sass/style.scss */
+/* line 40, ../sass/style.scss */
 #navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-/* line 45, ../sass/style.scss */
+/* line 44, ../sass/style.scss */
 #navbar ul li {
   float: left;
   background-color: #555555;
 }
-/* line 48, ../sass/style.scss */
+/* line 47, ../sass/style.scss */
 #navbar ul li a {
   display: inline;
   float: left;
@@ -1147,14 +1146,13 @@ body {
   line-height: 28px;
   text-align: center;
   text-decoration: none;
-  font-family: MuseoSans-500;
   color: #f6f6f6;
 }
 /* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
 * html #navbar ul li a {
   overflow-x: hidden;
 }
-/* line 51, ../sass/style.scss */
+/* line 50, ../sass/style.scss */
 #navbar ul li a.last {
   display: inline;
   float: left;
@@ -1167,21 +1165,66 @@ body {
 * html #navbar ul li a.last {
   overflow-x: hidden;
 }
-/* line 61, ../sass/style.scss */
+/* line 59, ../sass/style.scss */
 #navbar ul li a:hover {
   text-shadow: 1px 1px 1px #f2812d;
 }
 
-/* line 69, ../sass/style.scss */
+/* line 75, ../sass/style.scss */
 #slideshow {
-  margin: 20px;
+  margin: 20px 20px 0 20px;
   position: relative;
   height: 380px;
   width: 910px;
-  background: url(/images/p1.jpg);
+  background: url("/images/slideshow/p1.jpg");
 }
 
-/* line 77, ../sass/style.scss */
+/* line 79, ../sass/style.scss */
+#about-banner {
+  margin: 20px 20px 0 20px;
+  position: relative;
+  height: 380px;
+  width: 910px;
+  background: url("/images/slideshow/p2.jpg");
+}
+
+/* line 83, ../sass/style.scss */
+#members-banner {
+  margin: 20px 20px 0 20px;
+  position: relative;
+  height: 380px;
+  width: 910px;
+  background: url("/images/slideshow/p3.jpg");
+}
+
+/* line 87, ../sass/style.scss */
+#auditions-banner {
+  margin: 20px 20px 0 20px;
+  position: relative;
+  height: 380px;
+  width: 910px;
+  background: url("/images/slideshow/p4.jpg");
+}
+
+/* line 91, ../sass/style.scss */
+#music-banner {
+  margin: 20px 20px 0 20px;
+  position: relative;
+  height: 380px;
+  width: 910px;
+  background: url("/images/slideshow/p5.jpg");
+}
+
+/* line 95, ../sass/style.scss */
+#contact-banner {
+  margin: 20px 20px 0 20px;
+  position: relative;
+  height: 380px;
+  width: 910px;
+  background: url("/images/slideshow/p6.jpg");
+}
+
+/* line 99, ../sass/style.scss */
 #main {
   display: inline;
   float: left;
@@ -1192,13 +1235,12 @@ body {
 * html #main {
   overflow-x: hidden;
 }
-/* line 79, ../sass/style.scss */
+/* line 101, ../sass/style.scss */
 #main #content {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 15px 25px 15px 25px;
 }
 
-/* line 85, ../sass/style.scss */
+/* line 106, ../sass/style.scss */
 #footer {
   display: inline;
   float: left;

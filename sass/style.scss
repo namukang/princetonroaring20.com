@@ -29,7 +29,6 @@ body {
         left: 25px;
         @include link-colors($banner-text-color);
         text-decoration: none;
-        font-family: MuseoSans-500;
         font-size: 50px;
     }
 }
@@ -56,7 +55,6 @@ body {
                 line-height: $navbar-height;
                 text-align: center;
                 text-decoration: none;
-                font-family: MuseoSans-500;
                 @include link-colors($navbar-text-color);
                 &:hover {
                     text-shadow: 1px 1px 1px $orange;
@@ -66,19 +64,42 @@ body {
     }
 }
 
-#slideshow {
-    margin: 20px;
+@mixin banner($img) {
+    margin: 20px 20px 0 20px;
     position: relative;
     height: 380px;
     width: 910px;
-    background: url(/images/p1.jpg);
+    background: url($img);
+}
+
+#slideshow {
+    @include banner('/images/slideshow/p1.jpg');
+}
+
+#about-banner {
+    @include banner('/images/slideshow/p2.jpg');
+}
+
+#members-banner {
+    @include banner('/images/slideshow/p3.jpg');
+}
+
+#auditions-banner {
+    @include banner('/images/slideshow/p4.jpg');
+}
+
+#music-banner {
+    @include banner('/images/slideshow/p5.jpg');
+}
+
+#contact-banner {
+    @include banner('/images/slideshow/p6.jpg');
 }
 
 #main {
     @include column(24, true);
     #content {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding: 15px 25px 15px 25px;
     }
 }
 

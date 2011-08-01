@@ -1,0 +1,4 @@
+## Hover image
+* There is a flash that occurs when you hover your mouse over the member profiles. This is probably b/c the "funny' image isn't downloaded until the user hovers over it.
+* Quick way to fix this is to download the funny image with the page but keep display: none.
+* Best solution would be to combine the normal and funny images into one image and move the background to expose the funny part.
