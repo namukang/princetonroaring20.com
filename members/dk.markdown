@@ -5,12 +5,13 @@ title: DK
 banner: /images/slideshow/p1.jpg
 
 fullname: Daniel Kang
-class: 2014
 nickname: DK
+class: 2014
 voice: Tenor
 major: Computer Science
 hometown: Fullerton, CA
 office: Webmaster
+arrangements: 
 solos: Come On Get Higher
 
 fun-q1: Favorite foods

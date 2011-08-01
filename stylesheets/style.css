@@ -1224,10 +1224,9 @@ body {
 /* line 96, ../sass/style.scss */
 .sidebar .bio {
   margin-right: 30px;
-  padding: 15px;
 }
 
-/* line 102, ../sass/style.scss */
+/* line 101, ../sass/style.scss */
 #footer {
   display: inline;
   float: left;
@@ -1242,13 +1241,13 @@ body {
   overflow-x: hidden;
 }
 
-/* line 109, ../sass/style.scss */
+/* line 108, ../sass/style.scss */
 #repertoire {
   height: 250px;
   overflow: scroll;
 }
 
-/* line 114, ../sass/style.scss */
+/* line 113, ../sass/style.scss */
 .col {
   display: inline;
   float: left;

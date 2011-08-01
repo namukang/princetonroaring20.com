@@ -1,0 +1,40 @@
+---
+layout: profile
+category: members
+title: Jonah
+banner: /images/slideshow/p1.jpg
+
+fullname: Jonah Levi Roberts
+nickname: 
+class: 2013
+voice: Bass
+major: Engineering (probably civil/environmental)
+hometown: Farmington, ME
+office: Auditions Manager
+arrangements: 
+solos: 
+
+fun-q1: Total kidneys at birth
+fun-a1: 1
+fun-q2: Rank in Jujutsu
+fun-a2: Ikkyu
+fun-q3: Rank in BJJ
+fun-a3: Blue belt, 1 stripe
+
+---
+
+### Bio
+
+![Jonah](/images/members/current/jonah.jpg)
+
+Jonah was born in the heart of Appalachia. Although he loves his home
+of 13 years in the frigid wasteland of western Maine and his new home
+in Whitman College at Princeton, he still looks forward to the times
+when those country roads take him back to West Virginia. His musical
+tastes range from the traditional (classical and folk) to the retro
+(New Wave and funk) to the modern (hip-hop, pop, etc.) to the odd
+(Nerdcore, cartoon themes). Due to this love of all types of music, he
+was thrilled to join both Roaring 20 and the Chapel Choir his freshman
+fall. In the free time he has scheduled, he enjoys playing video
+games, watching TV, searching Youtube, giving long answers to short
+questions, and just thinking.

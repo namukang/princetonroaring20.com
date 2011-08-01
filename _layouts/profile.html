@@ -5,6 +5,9 @@ layout: default
 <div class="left">
   <div class="content">
     <h2>{{ page.fullname }} {{ page.class }} </h2>
+    {% if page.office %}
+    <h3>{{ page.office }}</h3>
+    {% endif %}
     <table>
       <thead>
         <tr>
@@ -19,15 +22,9 @@ layout: default
         </tr>
         {% endif %}
         <tr>
-          <th>Voice Part</th>
+          <th>Voice part</th>
           <td>{{ page.voice }}</td>
         </tr>
-        {% if page.office %}
-        <tr>
-          <th>Roaring 20 Office</th>
-          <td>{{ page.office }}</td>
-        </tr>
-        {% endif %}
         {% if page.arrangements %}
         <tr>
           <th>Arrangements</th>
@@ -75,4 +72,3 @@ layout: default
     {{ content }}
   </div>
 </div>
-
