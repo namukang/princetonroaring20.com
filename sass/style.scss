@@ -57,6 +57,7 @@ body {
                 line-height: $navbar-height;
                 text-align: center;
                 text-decoration: none;
+                font-weight: bold;
                 @include link-colors(#FFFFFF, $orange);
             }
         }

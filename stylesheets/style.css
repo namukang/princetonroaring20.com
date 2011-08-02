@@ -258,8 +258,7 @@ body {
   padding: 4px 10px 4px 5px;
 }
 /* line 85, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_typography.scss */
-.container table.striped tr:nth-child(even) td,
-.container table tr.even td {
+.container table.striped tr:nth-child(even) td, .container table tr.even td {
   background: #e5ecf9;
 }
 /* line 86, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_typography.scss */
@@ -1049,14 +1048,12 @@ body {
   border: 1px solid #cccccc;
 }
 /* line 58, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_form.scss */
-.container input.text, .container input.title, .container input[type=email], .container input[type=text], .container input[type=password],
-.container textarea {
+.container input.text, .container input.title, .container input[type=email], .container input[type=text], .container input[type=password], .container textarea {
   background-color: #fff;
   border: 1px solid #bbbbbb;
 }
 /* line 61, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_form.scss */
-.container input.text:focus, .container input.title:focus, .container input[type=email]:focus, .container input[type=text]:focus, .container input[type=password]:focus,
-.container textarea:focus {
+.container input.text:focus, .container input.title:focus, .container input[type=email]:focus, .container input[type=text]:focus, .container input[type=password]:focus, .container textarea:focus {
   border-color: #666666;
 }
 /* line 65, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_form.scss */
@@ -1148,6 +1145,7 @@ body {
   line-height: 28px;
   text-align: center;
   text-decoration: none;
+  font-weight: bold;
   color: white;
 }
 /* line 147, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/blueprint/stylesheets/blueprint/_grid.scss */
@@ -1172,7 +1170,7 @@ body {
   color: #f2812d;
 }
 
-/* line 73, ../sass/style.scss */
+/* line 74, ../sass/style.scss */
 #banner, #slideshow {
   margin: 20px 20px 0 20px;
   position: relative;
@@ -1180,7 +1178,7 @@ body {
   width: 910px;
 }
 
-/* line 81, ../sass/style.scss */
+/* line 82, ../sass/style.scss */
 #main {
   display: inline;
   float: left;
@@ -1191,13 +1189,13 @@ body {
 * html #main {
   overflow-x: hidden;
 }
-/* line 83, ../sass/style.scss */
+/* line 84, ../sass/style.scss */
 #main .content {
   padding: 15px 25px 15px 25px;
   float: left;
 }
 
-/* line 89, ../sass/style.scss */
+/* line 90, ../sass/style.scss */
 .left {
   display: inline;
   float: left;
@@ -1209,7 +1207,7 @@ body {
   overflow-x: hidden;
 }
 
-/* line 93, ../sass/style.scss */
+/* line 94, ../sass/style.scss */
 .sidebar {
   display: inline;
   float: left;
@@ -1221,12 +1219,12 @@ body {
 * html .sidebar {
   overflow-x: hidden;
 }
-/* line 96, ../sass/style.scss */
+/* line 97, ../sass/style.scss */
 .sidebar .bio {
   margin-right: 30px;
 }
 
-/* line 101, ../sass/style.scss */
+/* line 102, ../sass/style.scss */
 #footer {
   display: inline;
   float: left;
@@ -1241,13 +1239,13 @@ body {
   overflow-x: hidden;
 }
 
-/* line 108, ../sass/style.scss */
+/* line 109, ../sass/style.scss */
 #repertoire {
   height: 250px;
   overflow: scroll;
 }
 
-/* line 113, ../sass/style.scss */
+/* line 114, ../sass/style.scss */
 .col {
   display: inline;
   float: left;
