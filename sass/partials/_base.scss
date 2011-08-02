@@ -12,7 +12,7 @@ $blueprint-grid-width: ($blueprint-container-size + $blueprint-grid-margin) / $b
 @import "blueprint";
 @import "compass/reset";
 
-$orange: #F2812D;
+$orange: #FA7F00;
 
 $container-bg-color: #FFFFFF;
 $body-bg-color: #EEEEEE;
@@ -25,3 +25,4 @@ $logo-height: 100px;
 $logo-bg-color: #000000;
 $logo-text-color: $orange;
 
+$blueprint-table-header-color: lighten($orange, 30%);
