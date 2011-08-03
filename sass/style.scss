@@ -10,7 +10,7 @@ body {
     @include blueprint(true);
     @include container;
     @include border-radius(15px);
-    border: 1px solid #000000;
+    border: 1px solid $container-border-color;
     margin: 20px auto;
     background-color: $container-bg-color;
 }
