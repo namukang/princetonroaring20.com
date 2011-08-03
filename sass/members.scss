@@ -4,6 +4,10 @@
     background: url('/images/members/current/' + $name + '.jpg');
 }
 
+.hidden {
+    display: none;
+}
+
 .section {
     float: left;
     h3 {
