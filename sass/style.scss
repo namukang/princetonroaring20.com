@@ -82,7 +82,11 @@ body {
 #main {
     @include column(24, true);
     .content {
-        padding: 15px 25px 15px 25px;
+        padding: 15px 25px;
+        float: left;
+    }
+    .events {
+        padding: 15px 10px;
         float: left;
     }
 }
