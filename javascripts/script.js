@@ -27,6 +27,11 @@ $(function() {
     { src: '/images/slideshow/021.jpg' },
     { src: '/images/slideshow/022.jpg' },
     { src: '/images/slideshow/023.jpg' },
-    { src: '/images/slideshow/024.jpg' }
+    { src: '/images/slideshow/024.jpg' },
+    { src: '/images/slideshow/025.jpg' },
+    { src: '/images/slideshow/026.jpg' },
+    { src: '/images/slideshow/027.jpg' },
+    { src: '/images/slideshow/028.jpg' },
+    { src: '/images/slideshow/029.jpg' }
   ]);
 });

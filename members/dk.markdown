@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: DK
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/dk.jpg
 
 fullname: Daniel Kang
 nickname: DK
