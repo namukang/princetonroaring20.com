@@ -1,7 +1,7 @@
 --- 
 layout: two-col
 title: Auditions
-banner: /images/slideshow/p4.jpg
+banner: /images/slideshow/023.jpg
 ---
 
 ## Auditions

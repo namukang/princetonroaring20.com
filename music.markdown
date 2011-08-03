@@ -1,7 +1,7 @@
 ---
 layout: two-col
 title: Music
-banner: /images/slideshow/p5.jpg
+banner: /images/slideshow/003.jpg
 ---
 
 ## Music

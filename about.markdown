@@ -1,7 +1,7 @@
 ---
 layout: two-col
 title: About Us
-banner: /images/slideshow/p2.jpg
+banner: /images/slideshow/004.jpg
 ---
 
 ## About Us

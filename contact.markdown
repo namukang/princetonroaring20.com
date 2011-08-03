@@ -1,7 +1,7 @@
 ---
 layout: two-col
 title: Contact Us
-banner: /images/slideshow/p6.jpg
+banner: /images/slideshow/025.jpg
 ---
 
 ## Contact Us
