@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Anna
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/anna.jpg
 
 fullname: Anna Conroy Powell
 class: 2013

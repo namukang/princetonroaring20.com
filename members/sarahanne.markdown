@@ -2,12 +2,12 @@
 layout: profile
 category: members
 title: Sarah Anne
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/sarahanne.jpg
 
 fullname: Sarah Anne Sillers
 class: 2013
 voice: Alto
-major: Undecided
+major: English
 hometown: Potomac, Maryland
 office: Secretary
 arrangements: 
