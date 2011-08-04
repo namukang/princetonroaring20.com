@@ -123,7 +123,7 @@ mmiyagi@princeton.edu.
     <tr> 
       <td>Fly Me to the Moon</td> 
       <td>Frank Sinatra</td> 
-      <td>Wilson '80 (Footnotes) p'11</td> 
+      <td>Wilson '80 (Footnotes) p'11</td>
       <td>Ensemble</td> 
     </tr> 
     <tr> 
