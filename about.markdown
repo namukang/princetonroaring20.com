@@ -38,6 +38,5 @@ tours around the world. Our tour destinations have included the
 Dominican Republic, Paris, the Virgin Islands, Montreal, Italy, and
 Los Angeles (the set of ‘The Price is Right’).
 
-For general inquiries about the group, e-mail our current president,
-[Cara Hampton](/members/cara) at
-[champton@princeton.edu](mailto:champton@princeton.edu).
+For general inquiries about the group, e-mail us at
+[roaring@princeton.edu](mailto:roaring@princeton.edu).

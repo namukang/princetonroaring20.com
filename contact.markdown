@@ -21,16 +21,10 @@ The Roaring 20 is available for performances within driving distance
 of Princeton during the academic year, and travels nationally and
 internationally several times a year when school is not in session. If
 you would like further information regarding booking the Roaring 20
-for your event, please contact our business manager, [Ting-Fung
-Chan](/members/tingfung), at
-[tfchan@princeton.edu](mailto:tfchan@princeton.edu).
+for your event, contact us at
+[roaring@princeton.edu](mailto:roaring@princeton.edu).
 
-If you would like to hire Roaring 20 for a Reunions performance,
-please contact our Reunions Manager [Michael
-Pearlman](/members/michael) at
-[pearlman@princeton.edu](mailto:pearlman@princeton.edu).
-
-### Email Address
+## Email Address
 
 [roaring@princeton.edu](mailto:roaring@princeton.edu)
 

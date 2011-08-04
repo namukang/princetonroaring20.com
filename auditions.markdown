@@ -9,8 +9,9 @@ banner: /images/slideshow/023.jpg
 ### Audition Schedule
 
 All interested members of the classes of 2014 and 2015 are welcome
-(and encouraged) to audition for R20. Fall auditions will be held in
-the first week of classes.
+(and encouraged) to audition for R20. Fall auditions will be held
+during September 18-21 and you can sign up
+[here](https://wass.princeton.edu/pages/viewcalendar.page.php?makeapp=1&cal_id=1134).
 
 ### Audition Location
 
@@ -63,8 +64,5 @@ your voice fits in with the rest of the group.
 And then you're done! A member of Roaring 20 will come by your room
 later that night to let you know if we have decided to call you back.
 
-Once again, if you have any questions, please contact our president,
-[Cara Hampton](/members/cara), at
-[champton@princeton.edu](mailto:champton@princeton.edu), or music
-director, [Miyuki Miyagi](/members/miyuki), at
-[mmiyagi@princeton.edu](mailto:mmiyagi@princeton.edu).
+If you have any questions, contact us at
+[roaring@princeton.edu](mailto:roaring@princeton.edu).
