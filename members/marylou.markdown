@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Mary Lou
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/marylou.jpg
 
 fullname: Mary Lou Kolbenschlag
 class: 2014
