@@ -7,7 +7,7 @@ banner: /images/profiles/desiree.jpg
 fullname: Desirée Tiana Howry
 class: 2014
 voice: Alto
-major: Anthro
+major: East Asian Studies
 hometown: Memphis, TN
 office: Sales Manager
 arrangements: 
