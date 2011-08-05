@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: DJ
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/dj.jpg
 
 fullname: Donald Murray Judd IV
 nickname: DJ
