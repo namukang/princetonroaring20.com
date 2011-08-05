@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Desiree
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/desiree.jpg
 
 fullname: Desirée Tiana Howry
 class: 2014
