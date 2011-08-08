@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Cara
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/cara.jpg
 
 fullname: Cara Imani Hampton
 class: 2012
@@ -27,13 +27,10 @@ fun-a3: Chipotle
 ![Cara](/images/members/current/cara.jpg)
 
 Cara, whose street name is Chocolate Thunda, brings the flavor to
-Roaring 20. She also brings the volume...to the entire
-campus. Although she is literally a force of nature, her bark is
-definitely worse than her bite. Cara is a real softie on the
-inside. Cara was formerly a pre-meddie but decided she was off that
-because it sucked. Now she is on a more creative path towards the
-theater, where her unique personality will actually be of some
-use. When she's not belting it out in the alto section, she can be
-heard singing TSwift and MCyrus, gabbing about her love of giraffes
-and Coogi sweaters, busting out her signature "BUHHH" laugh, or making
-love to her Chipotle burrito bowl.
+Roaring 20. She also brings the volume…to the entire campus. Although
+she is literally a force of nature, her bark is definitely worse than
+her bite. Cara is a real softie on the inside. When she’s not belting
+it out in the alto section, she can be heard singing TSwift and
+MCyrus, gabbing about her love of giraffes and Coogi sweaters, busting
+out her signature “BUHHH” laugh, or making love to her Chipotle
+burrito bowl.

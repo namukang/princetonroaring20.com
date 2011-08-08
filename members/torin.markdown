@@ -8,7 +8,7 @@ fullname: Torin Rudeen
 nickname: 
 class: 2014
 voice: Tenor
-major: Engineering
+major: Public Policy
 hometown: Eugene, OR
 office: Tour Manager
 arrangements: 
@@ -27,12 +27,11 @@ fun-a3: 63%
 
 ![Torin](/images/members/current/torin.jpg)
 
-Torin Rudeen is a collection of Carbon, Oxygen, and Hydrogen atoms
-suffering from the persistent delusion of free will. His favorite
-activities include generating energy by ingesting other collections of
-organic molecules, respiring, and singing in Roaring 20. He has lived
-his whole life in Eugene, Oregon, a town known mainly for its hippies,
-anarchists, and astonishing density of health-food stores. He has been
-somewhat disappointed so far by the difficulty of finding organic
-granola in Princeton. In the meantime, he enjoys Chinese literature,
-ramen, and writing bios.
+Torin hails from the verdant suburbs of Eugene, Oregon, and feels
+privileged to be able to sing with a group as fine as Roaring 20. At
+home, he has a mother and father, two older sisters, and a number of
+vagrant types living in his house, all of whom he loves very much. At
+Princeton, he hopes to study Public Policy, while fulfilling his
+lifelong dream of learning everything. When Torin is not singing, he
+enjoys playing the piano, arranging music, coding, and Chinese
+literature.

@@ -118,3 +118,7 @@ body {
 .col {
     @include column(8);
 }
+
+#facts th {
+    width: 50%;
+}
