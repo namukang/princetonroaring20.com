@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Michael
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/michael.jpg
 
 fullname: Michael Pearlman
 nickname: 
