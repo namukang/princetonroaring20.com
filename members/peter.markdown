@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Peter
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/peter.jpg
 
 fullname: Peter Carlson Westman
 nickname: 
