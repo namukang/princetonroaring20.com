@@ -10,8 +10,8 @@ Of the three co-ed a cappella groups on Princeton soil, Roaring 20
 prides itself not only on the broadness of its repertoire, but also on
 the undying love of its members for each other and the group. While we
 gather primarly to sing and conduct related business, we also enjoy
-spending time relaxing and/or having fun. Like many Princeton groups,
-Roaring 20 is not just an activity, but also a family.
+spending time relaxing and having fun. Roaring 20 is not just an
+activity, but also a family.
 
 Auditions are held for all interested freshmen and sophomores twice a
 year, in the fall and spring. If you're interested in trying out for
