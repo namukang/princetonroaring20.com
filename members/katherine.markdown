@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Katherine
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/katherine.jpg
 
 fullname: Katherine Anna Gentile Ortmeyer
 class: 2014
