@@ -19,26 +19,30 @@ the group. For questions concerning music and performance, you can
 contact our current music director, Miyuki Miyagi, at
 mmiyagi@princeton.edu.
 
-### Video Clips
-
-* [The Way I Am - Ingrid Michaelson](http://www.youtube.com/watch?v=kOfoGoYOj2g)
-* [Total Eclipse of the Heart - Bonnie Tyler](http://www.youtube.com/watch?v=BcoZjivfh-c)
-* [Spaceman - The Killers](http://www.youtube.com/watch?v=4J5rV5uqOMQ)
-* [Somebody to Love - Queen](http://www.youtube.com/watch?v=5U878VE4SpQ)
-* [Sweet Home Alabama - Lynyrd Skynyrd](http://www.youtube.com/watch?v=oHRl_lW_j6o)
-
 ### Audio Clips
 
+* [Hide and Seek - Imogen Heap](#)  
+<audio src="/clips/HideAndSeek.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+* [Creep - Radiohead](#)  
+<audio src="/clips/Creep.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+* [Somebody to Love - Queen](#)  
+<audio src="/clips/Somebody.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+* [Under the Bridge - Red Hot Chili Peppers](#)  
+<audio src="/clips/UnderTheBridge.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
 * [Chocolate - Snow Patrol](#)  
 <audio src="/clips/Chocolate.mp3" controls="controls">
 Your browser does not support the audio element.
 </audio>
 * [Crazy - Seal](#)  
 <audio src="/clips/Crazy.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
-* [Creep - Radiohead](#)  
-<audio src="/clips/Creep.mp3" controls="controls">
 Your browser does not support the audio element.
 </audio>
 * [Dream a Little Dream of Me - The Mamas and the Papas](#)  
@@ -49,26 +53,22 @@ Your browser does not support the audio element.
 <audio src="/clips/Dido.mp3" controls="controls">
 Your browser does not support the audio element.
 </audio>
-* [Hide and Seek - Imogen Heap](#)  
-<audio src="/clips/HideAndSeek.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
 * [I'm Beginning to See the Light - Duke Ellington](#)  
 <audio src="/clips/ToSee.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
-* [Somebody to Love - Queen](#)  
-<audio src="/clips/Somebody.mp3" controls="controls">
 Your browser does not support the audio element.
 </audio>
 * [Total Eclipse of the Heart - Bonnie Tyler/Nikki French](#)  
 <audio src="/clips/Total.mp3" controls="controls">
 Your browser does not support the audio element.
 </audio>
-* [Under the Bridge - Red Hot Chili Peppers](#)  
-<audio src="/clips/UnderTheBridge.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+
+### Video Clips
+
+* [The Way I Am - Ingrid Michaelson](http://www.youtube.com/watch?v=kOfoGoYOj2g)
+* [Total Eclipse of the Heart - Bonnie Tyler](http://www.youtube.com/watch?v=BcoZjivfh-c)
+* [Spaceman - The Killers](http://www.youtube.com/watch?v=4J5rV5uqOMQ)
+* [Somebody to Love - Queen](http://www.youtube.com/watch?v=5U878VE4SpQ)
+* [Sweet Home Alabama - Lynyrd Skynyrd](http://www.youtube.com/watch?v=oHRl_lW_j6o)
 
 ### Active Repertoire
 
