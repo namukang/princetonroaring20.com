@@ -24,7 +24,7 @@ you would like further information regarding booking the Roaring 20
 for your event, contact us at
 [roaring@princeton.edu](mailto:roaring@princeton.edu).
 
-## Email Address
+### Email Address
 
 [roaring@princeton.edu](mailto:roaring@princeton.edu)
 
