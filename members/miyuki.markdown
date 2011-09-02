@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Miyuki
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/miyuki.jpg
 
 fullname: Miyuki Katya Miyagi
 class: 2012
