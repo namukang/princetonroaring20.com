@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Teddy
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/teddy.jpg
 
 fullname: Theodore DeWitt Eyster
 nickname: 

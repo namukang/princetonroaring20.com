@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Torin
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/torin.jpg
 
 fullname: Torin Rudeen
 nickname: 
