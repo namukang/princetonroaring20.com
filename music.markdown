@@ -215,7 +215,7 @@ Your browser does not support the audio element.
       <td>Kiss Him Goodbye</td> 
       <td>The Nylons / Steam</td> 
       <td>Padula '89 <br /> Lee '92</td> 
-      <td>Carl Thompson '11</td> 
+      <td>Dan Kang '14</td>
     </tr>
     <tr> 
       <td>Last Request</td> 
@@ -281,7 +281,7 @@ Your browser does not support the audio element.
       <td>Semi-Charmed Life</td> 
       <td>Third Eye Blind</td> 
       <td>Segal '03</td> 
-      <td>Carl Thompson '11</td> 
+      <td>DJ Judd '12</td>
     </tr>
     <tr> 
       <td>Somebody to Love</td> 
