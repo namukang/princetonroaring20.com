@@ -6,12 +6,13 @@ banner: /images/slideshow/023.jpg
 
 ## Auditions
 
+<a href="http://goo.gl/5l3rP" id="auditions_button">Sign up now!</a>
+
 ### Audition Schedule
 
 All interested members of the classes of 2014 and 2015 are welcome
 (and encouraged) to audition for R20. Fall auditions will be held
-during September 18-21 and you can sign up
-[here](https://wass.princeton.edu/pages/viewcalendar.page.php?makeapp=1&cal_id=1134).
+during September 18-21.
 
 ### Audition Location
 
