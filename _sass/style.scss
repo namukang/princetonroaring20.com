@@ -142,6 +142,6 @@ a#auditions_button {
     @include border-radius(10px);
     @include link-colors(white);
     &:hover {
-        text-decoration: underline;
+        background: lighten($orange, 10%);
     }
 }
