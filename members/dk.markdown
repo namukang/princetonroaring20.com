@@ -12,7 +12,7 @@ major: Computer Science
 hometown: Fullerton, CA
 office: Webmaster
 arrangements: 
-solos: Come On Get Higher
+solos: Come On Get Higher, Kiss Him Goodbye
 
 fun-q1: Favorite foods
 fun-a1: Frozen yogurt and gum

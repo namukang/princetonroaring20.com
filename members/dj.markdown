@@ -12,7 +12,7 @@ major: Politics
 hometown: New York, NY
 office: Social Chair
 arrangements: 
-solos: Summer Moon, The Scientist
+solos: Summer Moon, The Scientist, Semi-Charmed Life
 
 fun-q1: Favorite movie
 fun-a1: O Brother, Where Art Thou?
