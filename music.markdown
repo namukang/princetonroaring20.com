@@ -64,11 +64,11 @@ Your browser does not support the audio element.
 
 ### Video Clips
 
+* [Somebody to Love - Queen](http://www.youtube.com/watch?v=5U878VE4SpQ)
+* [Sweet Home Alabama - Lynyrd Skynyrd](http://www.youtube.com/watch?v=oHRl_lW_j6o)
 * [The Way I Am - Ingrid Michaelson](http://www.youtube.com/watch?v=kOfoGoYOj2g)
 * [Total Eclipse of the Heart - Bonnie Tyler](http://www.youtube.com/watch?v=BcoZjivfh-c)
 * [Spaceman - The Killers](http://www.youtube.com/watch?v=4J5rV5uqOMQ)
-* [Somebody to Love - Queen](http://www.youtube.com/watch?v=5U878VE4SpQ)
-* [Sweet Home Alabama - Lynyrd Skynyrd](http://www.youtube.com/watch?v=oHRl_lW_j6o)
 
 ### Active Repertoire
 
