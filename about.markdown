@@ -8,10 +8,8 @@ banner: /images/slideshow/004.jpg
 
 Of the three co-ed a cappella groups on Princeton soil, Roaring 20
 prides itself not only on the broadness of its repertoire, but also on
-the undying love of its members for each other and the group. While we
-gather primarly to sing and conduct related business, we also enjoy
-spending time relaxing and having fun. Roaring 20 is not just an
-activity, but also a family.
+the undying love of its members for each other and the group. Roaring
+20 is not just an activity, but also a family.
 
 Auditions are held for all interested freshmen and sophomores twice a
 year, in the fall and spring. If you're interested in trying out for
@@ -36,7 +34,7 @@ own room, located at 071 Bloomberg Hall. In addition to the bi-weekly
 archsings, we perform local shows on weekends, and take two week-long
 tours around the world. Our tour destinations have included the
 Dominican Republic, Paris, the Virgin Islands, Montreal, Italy, and
-Los Angeles (the set of ‘The Price is Right’).
+Los Angeles (the set of 'The Price is Right').
 
 For general inquiries about the group, e-mail us at
 [roaring@princeton.edu](mailto:roaring@princeton.edu).
