@@ -11,7 +11,7 @@ major: Religion
 hometown: Washington, D.C.
 office: President
 arrangements: 
-solos: Here in Your Arms, Whataya Want From Me
+solos: Here in Your Arms, Whataya Want From Me, Crazy
 
 fun-q1: Dream jobs
 fun-a1: Writer of children's songs, back-up singer for Beyonce

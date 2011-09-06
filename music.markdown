@@ -149,7 +149,7 @@ Your browser does not support the audio element.
       <td>Crazy</td> 
       <td>Seal</td> 
       <td>Sheldon '02</td> 
-      <td>Spencer Bowley '11 <br /> Sutton Brown '11</td> 
+      <td>Peter Westman '12 <br /> Cara Hampton '12</td> 
     </tr> 
     <tr> 
       <td>Don't You Want Me Baby</td> 
@@ -185,7 +185,7 @@ Your browser does not support the audio element.
       <td>Here With Me</td> 
       <td>Dido</td> 
       <td>Sheldon '02</td> 
-      <td>TBA</td> 
+      <td>Christina Bott '13</td> 
     </tr>
     <tr> 
       <td>Hey Jude</td> 
@@ -269,7 +269,7 @@ Your browser does not support the audio element.
       <td>Possession</td> 
       <td>Sarah McLachlan</td> 
       <td>Kors '99</td> 
-      <td>Desi Howry '13</td> 
+      <td>Desi Howry '14</td> 
     </tr>
     <tr> 
       <td>The Scientist</td> 
@@ -341,7 +341,7 @@ Your browser does not support the audio element.
       <td>Total Eclipse of the Heart</td> 
       <td>Bonnie Tyler / Nikki French</td> 
       <td>Prescott '06</td> 
-      <td>Sutton Brown '11</td> 
+      <td>Desi Howry '14</td> 
     </tr>
     <tr> 
       <td>Under the Bridge</td> 

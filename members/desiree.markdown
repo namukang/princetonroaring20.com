@@ -11,7 +11,7 @@ major: East Asian Studies
 hometown: Memphis, TN
 office: Sales Manager
 arrangements: 
-solos: Possession
+solos: Possession, Total Eclipse of the Heart
 
 fun-q1: Secret identity
 fun-a1: Scooby Doo

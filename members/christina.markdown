@@ -11,7 +11,7 @@ major: Undecided
 hometown: New York, NY
 office: Tour Manager
 arrangements: 
-solos:
+solos: Here with Me
 
 fun-q1: Life goal
 fun-a1: To be under 5'9" (failed at 6 ft.)

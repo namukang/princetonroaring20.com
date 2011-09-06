@@ -12,7 +12,7 @@ major: Chemistry
 hometown: Great Falls, VA
 office: Room Manager
 arrangements: 
-solos: You Sexy Thing, Don't You Want Me Baby
+solos: You Sexy Thing, Don't You Want Me Baby, Crazy
 
 fun-q1: Gallons of milk consumed per day
 fun-a1: ~1
