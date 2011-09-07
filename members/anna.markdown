@@ -11,6 +11,7 @@ major: Mystery
 hometown: Los Altos, CA
 office: Publicity Manager
 arrangements: Spaceman; Come On Get Higher; Bond, James Bond; Broken Hearts Medley
+solos: Stacy's Mom
 
 fun-q1: Years spent at an all-girls school
 fun-a1: 7

@@ -12,7 +12,7 @@ major: Engineering
 hometown: Wilmette, IL
 office: Reunions Manager
 arrangements: 
-solos: 
+solos: Stacy's Mom
 
 fun-q1: Favorite mode of transportation
 fun-a1: Red razor scooter

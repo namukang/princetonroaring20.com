@@ -299,7 +299,7 @@ Your browser does not support the audio element.
       <td>Stacy's Mom</td> 
       <td>Fountains of Wayne</td> 
       <td>Marcovitz '06</td> 
-      <td>Sungmin Cho '11 <br /> Laura Hohnsbeen '11</td> 
+      <td>Michael Pearlman '13 <br /> Anna Powell '13</td> 
     </tr>
     <tr> 
       <td>Step Song/Integer Vitae</td> 
