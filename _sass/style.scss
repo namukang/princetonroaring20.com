@@ -97,7 +97,7 @@ body {
 
 .sidebar {
     @include column(8, true);
-    margin: 20px 0;
+    margin: 15px 0;
     .bio {
         margin-right: 30px;
     }
