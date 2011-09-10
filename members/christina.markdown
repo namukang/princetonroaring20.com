@@ -2,7 +2,7 @@
 layout: profile
 category: members
 title: Christina
-banner: /images/slideshow/p1.jpg
+banner: /images/profiles/christina.jpg
 
 fullname: Christina Bott
 class: 2013
