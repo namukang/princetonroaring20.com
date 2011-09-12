@@ -14,6 +14,10 @@ office: Webmaster
 arrangements: 
 solos: Come On Get Higher, Kiss Him Goodbye
 
+activities: Princeton ACM, Pace Center
+interests: Coding, sleeping, generally being awesome
+memory: Sharing deep dark secrets over tour
+
 fun-q1: Favorite foods
 fun-a1: Frozen yogurt and gum
 fun-q2: Number of websites designed during high school

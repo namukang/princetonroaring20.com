@@ -14,6 +14,10 @@ office: Tour Manager
 arrangements: 
 solos: Always on My Mind
 
+activities: Chapel Choir, Chamber Choir
+interests: Piano, reading, coding, arranging
+memory: Hanging out with alums at reunions
+
 fun-q1: Number of musical theatre productions performed in
 fun-a1: 6
 fun-q2: Fraction of musical theatre production performed which involved dressing in drag, singing soprano, and playing opposite own father

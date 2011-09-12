@@ -13,6 +13,10 @@ office: Business Manager
 arrangements: 
 solos: Spaceman
 
+activities: International Food Co-op, Chamber Choir, Rocky Peer Advisers
+interests: Germany, orientalism, Reddit, rhinos, and rabbits
+memory: Hanging out with the awesome alum who arranged Total Eclipse of the Heart at Reunions '11
+
 fun-q1: Signature dishes
 fun-a1: Mushroom risotto, ratatouille a la the Pixar movie
 fun-q2: All-time favorite music video

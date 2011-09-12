@@ -49,6 +49,24 @@ layout: default
           <th>Hometown</th>
           <td>{{ page.hometown }}</td>
         </tr>
+        {% if page.activities %}
+        <tr>
+          <th>Other Activities</th>
+          <td>{{ page.activities }}</td>
+        </tr>
+        {% endif %}
+        {% if page.interests %}
+        <tr>
+          <th>Interests</th>
+          <td>{{ page.interests }}</td>
+        </tr>
+        {% endif %}
+        {% if page.memory %}
+        <tr>
+          <th>Favorite R20 Memory</th>
+          <td>{{ page.memory }}</td>
+        </tr>
+        {% endif %}
         {% if page.fun-q1 %}
         <tr>
           <th>{{ page.fun-q1 }}</th>

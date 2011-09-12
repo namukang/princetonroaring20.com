@@ -14,6 +14,10 @@ office: Auditions Manager
 arrangements: 
 solos: 
 
+activities: Running Club, Riseup Singing, Band
+interests: Rock climbing, camping, atlatl, woodcarving
+memory: Blue Skies in Bermuda
+
 fun-q1: Longest bike ride
 fun-a1: Two weeks (753 miles)
 fun-q2: Furthest run

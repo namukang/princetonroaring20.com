@@ -13,6 +13,10 @@ office: Alumni Coordinator
 arrangements: 
 solos: Spaceman
 
+activities: Princeton Triangle Club, Princeton University Players
+interests: Making music, making noises, overdressing, Google docs, iCal, memes, reminding everyone west coast = best coast
+memory: Michael Pearlman's letter-writing after a night of dancing in Bermuda
+
 fun-q1: Letters in last name
 fun-a1: 12
 fun-q2: Meaning of last name

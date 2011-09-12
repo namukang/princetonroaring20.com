@@ -13,6 +13,10 @@ office: Sales Manager
 arrangements: 
 solos: Possession, Total Eclipse of the Heart
 
+activities: Cheerleading, PU Rock Ensemble
+interests: reading, graphic design, songwriting, taking shots straight no chaser, dancing, wasting my life on Reddit
+memory: Singing with the Dartmouth Cords
+
 fun-q1: Secret identity
 fun-a1: Scooby Doo
 fun-q2: Biggest wish

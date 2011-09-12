@@ -13,6 +13,10 @@ office: Secretary
 arrangements: 
 solos: Bleeding Love/No One, Somebody to Love
 
+activities: Triangle Club, Princeton Shakespeare Company, Mathey Peer Advisers
+interests: Collecting Broadway playbills, aww-ing at cute animal videos on YouTube (send me some!), watching Food Network competition shows
+memory: Our impromptu jam session on the bus ride back from the Orange and Black Ball in NYC
+
 fun-q1: Favorite culinary combination
 fun-a1: Pizza and ranch dressing
 fun-q2: Number of times danced in a tutu onstage

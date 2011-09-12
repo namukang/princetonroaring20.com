@@ -12,6 +12,9 @@ hometown: Los Altos, CA
 office: Publicity Manager
 arrangements: Spaceman; Come On Get Higher; Bond, James Bond; Broken Hearts Medley
 solos: Stacy's Mom
+activities: Glee Club, Princeton Opera Company, acting/directing
+interests: Russia, Netflix Instant Play, Princeton Tower Club
+memory: Hearing the group sing Spaceman, my first arrangement, for the first time
 
 fun-q1: Years spent at an all-girls school
 fun-a1: 7

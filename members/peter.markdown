@@ -14,6 +14,10 @@ office: Room Manager
 arrangements: 
 solos: You Sexy Thing, Don't You Want Me Baby, Crazy
 
+activities: PFA, Club Basketball
+interests: Working out, playing guitar, trying to create a new anti-malaria drug
+memory: Beaching it in Bermuda
+
 fun-q1: Gallons of milk consumed per day
 fun-a1: ~1
 fun-q2: Number of times Peter bled on his guitar during a concert

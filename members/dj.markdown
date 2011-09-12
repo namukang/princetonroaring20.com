@@ -14,6 +14,10 @@ office: Social Chair
 arrangements: 
 solos: Summer Moon, The Scientist, Semi-Charmed Life
 
+activities: Princeton Tower Club, Students United for a Responsible Global Environment (SURGE)
+interests: Camping, tennis, flip-flops, the 90s
+memory: Kicking back with Roaring 20's most dedicated alum at the annual champagne arch
+
 fun-q1: Favorite movie
 fun-a1: O Brother, Where Art Thou?
 fun-q2: Personal motto
