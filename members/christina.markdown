@@ -13,6 +13,10 @@ office: Tour Manager
 arrangements: 
 solos: Here with Me, Hey Jude
 
+activities: The Cloister Inn, Glee Club, PU Rock Ensemble (PURE), Kappa Kappa Gamma Sorority, Princeton Opera Company, Princeton University Players (PUP), L'Avant Scene (French Theater Troupe), Forbes Peer Advising
+interests: Baking, French, Italian, German, old films, wearing heels when you're already 6ft tall (woops), earl grey tea, legos, making cat noises
+memory: Being an avatar for my newbie arch
+
 fun-q1: Life goal
 fun-a1: To be under 5'9" (failed at 6 ft.)
 fun-q2: Last role in a high school show
