@@ -14,6 +14,10 @@ office: Auditions Manager
 arrangements: 
 solos: 
 
+activities: Chapel choir, PFA, PADI
+interests: Performance arts, nerd culture, video game history, martial arts
+memory: The "Twentysomething" jam
+
 fun-q1: Total kidneys at birth
 fun-a1: 1
 fun-q2: Rank in Jujutsu
@@ -34,6 +38,4 @@ roads take him back to West Virginia. His musical tastes range from
 the traditional (classical and folk) to the retro (New Wave and funk)
 to the modern (hip-hop, pop, etc.) to the odd (Nerdcore, cartoon
 themes). Due to this love of all types of music, he was thrilled to
-join both Roaring 20 and the Chapel Choir his freshman fall. In the
-free time he has scheduled, he enjoys playing video games, searching
-out retro tv shows, practicing martial arts, and just thinking.
+join both Roaring 20 and the Chapel Choir his freshman fall.

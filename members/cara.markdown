@@ -13,6 +13,10 @@ office: President
 arrangements: 
 solos: Here in Your Arms, Whataya Want From Me, Crazy
 
+activities: Princeton Tower Club, Princeton Triangle Club
+interests: Documentaries, spinning, board games, celebrity babies, Chipotle
+memory: The Black Lagoon in Tate, GA
+
 fun-q1: Dream jobs
 fun-a1: Writer of children's songs, back-up singer for Beyonce
 fun-q2: Most regrettable fashion choice
