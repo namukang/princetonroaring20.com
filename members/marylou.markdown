@@ -15,7 +15,7 @@ solos: Spaceman
 
 activities: Princeton Triangle Club, Princeton University Players
 interests: Making music, making noises, overdressing, Google docs, iCal, memes, reminding everyone west coast = best coast
-memory: Michael Pearlman's letter-writing after a night of dancing in Bermuda
+memory: BAKED. POTATOES.
 
 fun-q1: Letters in last name
 fun-a1: 12
