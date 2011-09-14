@@ -8,11 +8,15 @@ fullname: Michael Pearlman
 nickname: 
 class: 2013
 voice: Tenor
-major: Engineering
+major: French
 hometown: Wilmette, IL
 office: Reunions Manager
 arrangements: 
 solos: Stacy's Mom
+
+activities: PUP, Cap & Gown, Running
+interests: Rock climbing, frisbee, reading (PrincetonFML), HeyTell
+memory: Partying late into the night in Bermuda then waking up to sing at breakfast
 
 fun-q1: Favorite mode of transportation
 fun-a1: Red razor scooter
