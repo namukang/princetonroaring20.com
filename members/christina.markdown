@@ -7,15 +7,15 @@ banner: /images/profiles/christina.jpg
 fullname: Christina Bott
 class: 2013
 voice: Soprano
-major: Undecided
+major: French
 hometown: New York, NY
 office: Tour Manager
 arrangements: 
 solos: Here with Me, Hey Jude
 
-activities: The Cloister Inn, Glee Club, PU Rock Ensemble (PURE), Kappa Kappa Gamma Sorority, Princeton Opera Company, Princeton University Players (PUP), L'Avant Scene (French Theater Troupe), Forbes Peer Advising
-interests: Baking, French, Italian, German, old films, wearing heels when you're already 6ft tall (woops), earl grey tea, legos, making cat noises
-memory: Being an avatar for my newbie arch
+activities: The Cloister Inn, Glee Club, PU Rock Ensemble (PURE), Kappa Kappa Gamma Sorority, Princeton Opera Company, Princeton University Players (PUP), L'Avant Scene (French Theater Troupe)
+interests: French, Italian, German, people, STRAWBERRIES, old films, wearing heels unnecessarily, Earl Grey tea, legos, making cat noises
+memory: Being a na'vi for my newbie arch
 
 fun-q1: Life goal
 fun-a1: To be under 5'9" (failed at 6 ft.)
@@ -30,12 +30,10 @@ fun-a3: 10+
 
 ![Christina](/images/members/current/christina.jpg)
 
-Born in the land of gossip girl, Christina has spent much of her life
-in an all girls school complete with schoolskirt. For this reason she
-was all too happy to be in a co-ed a cappella group at Princeton. She
-heard about Roaring 20s sweet sound as a junior in high school and has
-been hooked ever since. When she's not singing with R20, she rows
-boats on the crew team, bakes cookies and brownies and sings musical
-theatre songs and opera arias. She also likes to speak in foreign
-tongues (French, Italian, German and periodically Swedish) to confuse
-people.
+Born in the land of all things great, New York City, Christina has
+spent much of her life in an all-girls school complete with
+schoolskirt. For this reason she was all too happy to be in a co-ed a
+cappella group at Princeton. She heard about the Roaring 20's sweet
+sound as a junior in high school and has been hooked ever since. When
+she’s not singing with R20, she rows boats, bakes and speaks in
+foreign tongues to confuse people.
