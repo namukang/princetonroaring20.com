@@ -14,7 +14,7 @@ office: Reunions Manager
 arrangements: 
 solos: Stacy's Mom
 
-activities: PUP, Cap & Gown, Running
+activities: PUP, Cap & Gown, Running, OA Leader, Colosseum Club
 interests: Rock climbing, frisbee, reading (PrincetonFML), HeyTell
 memory: Partying late into the night in Bermuda then waking up to sing at breakfast
 
