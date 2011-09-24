@@ -6,13 +6,15 @@ banner: /images/slideshow/023.jpg
 
 ## Auditions
 
+<div class="auditions">
 <a href="http://goo.gl/5l3rP" id="auditions_button">Sign up now!</a>
+</div>
 
 ### Audition Schedule
 
 All interested members of the classes of 2014 and 2015 are welcome
-(and encouraged) to audition for R20. Fall auditions will be held
-during September 18-21.
+(and encouraged) to audition for R20. Come back soon to hear about
+spring auditions!
 
 ### Audition Location
 
