@@ -128,22 +128,7 @@ li audio {
 }
 
 a#auditions_button {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-    display: block;
-    text-align: center;
-    width: 190px;
-    background: $orange;
-    font-size: 150%;
-    font-weight: bold;
-    padding: 20px;
-    text-decoration: none;
-    @include border-radius(10px);
-    @include link-colors(white);
-    &:hover {
-        background: lighten($orange, 10%);
-    }
+    @include r20-button($orange);
 }
 
 .auditions {

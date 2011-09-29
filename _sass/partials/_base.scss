@@ -28,3 +28,25 @@ $logo-bg-color: #000000;
 $logo-text-color: $orange;
 
 $blueprint-table-header-color: lighten($orange, 30%);
+
+@import "compass/css3/border-radius";
+@import "compass/typography/links/link-colors";
+
+@mixin r20-button($color) {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    display: block;
+    text-align: center;
+    width: 190px;
+    background: $color;
+    font-size: 150%;
+    font-weight: bold;
+    padding: 20px;
+    text-decoration: none;
+    @include border-radius(10px);
+    @include link-colors(white);
+    &:hover {
+        background: lighten($color, 10%);
+    }
+}

@@ -16,6 +16,11 @@
     }
 }
 
+a#alumni {
+    float: right;
+    @include r20-button(gray);
+}
+
 a.profile {
     float: left;
     text-decoration: none;
