@@ -8,7 +8,7 @@ fullname: Viv Chan
 nickname: 
 class: 2015
 voice: Alto
-major: Undecided
+major: 
 hometown: Sydney, Australia
 office: 
 arrangements: 
