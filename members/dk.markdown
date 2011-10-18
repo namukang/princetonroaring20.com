@@ -4,7 +4,7 @@ category: members
 title: DK
 banner: /images/profiles/dk.jpg
 
-fullname: Daniel Kang
+fullname: Dan Kang
 nickname: DK
 class: 2014
 voice: Tenor
@@ -15,8 +15,8 @@ arrangements:
 solos: Come On Get Higher, Kiss Him Goodbye
 
 activities: Princeton ACM, Pace Center
-interests: Coding, sleeping, generally being awesome
-memory: Sharing super secrets over tour
+interests: Coding, eating, sleeping
+memory: Finding out everyone's deep dark secrets
 
 fun-q1: Favorite foods
 fun-a1: Frozen yogurt and gum

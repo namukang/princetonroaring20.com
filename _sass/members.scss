@@ -154,6 +154,20 @@ a.profile {
     }
 }
 
+#viv {
+    .hidden {
+        @include profile('viv-b');
+    }
+    .image {
+        @include profile('viv');
+    }
+    &:hover {
+        .image {
+            @include profile('viv-b');
+        }
+    }
+}
+
 // Tenors
 #tingfung {
     .hidden {
@@ -268,3 +282,30 @@ a.profile {
     }
 }
 
+#sam {
+    .hidden {
+        @include profile('sam-b');
+    }
+    .image {
+        @include profile('sam');
+    }
+    &:hover {
+        .image {
+            @include profile('sam-b');
+        }
+    }
+}
+
+#john {
+    .hidden {
+        @include profile('john-b');
+    }
+    .image {
+        @include profile('john');
+    }
+    &:hover {
+        .image {
+            @include profile('john-b');
+        }
+    }
+}

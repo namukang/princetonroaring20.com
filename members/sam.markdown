@@ -1,13 +1,13 @@
 ---
 layout: profile
 category: members
-title: Name
-banner: /images/profiles/name.jpg
+title: Sam
+banner: /images/profiles/sam.jpg
 
-fullname: 
+fullname: Sam Gavis-Hughson
 nickname: 
-class: 
-voice: 
+class: 2015
+voice: Bass
 major: 
 hometown: 
 office: 
@@ -28,5 +28,5 @@ fun-a3:
 
 ### Bio
 
-![Name](/images/members/current/name.jpg)
+![Sam](/images/members/current/sam.jpg)
 

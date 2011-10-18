@@ -1,13 +1,13 @@
 ---
 layout: profile
 category: members
-title: Name
-banner: /images/profiles/name.jpg
+title: John
+banner: /images/profiles/john.jpg
 
-fullname: 
+fullname: John Plonk
 nickname: 
-class: 
-voice: 
+class: 2015
+voice: Bass
 major: 
 hometown: 
 office: 
@@ -28,5 +28,5 @@ fun-a3:
 
 ### Bio
 
-![Name](/images/members/current/name.jpg)
+![John](/images/members/current/john.jpg)
 
