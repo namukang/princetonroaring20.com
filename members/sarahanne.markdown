@@ -13,7 +13,7 @@ office: Secretary
 arrangements: 
 solos: Bleeding Love/No One, Somebody to Love
 
-activities: Triangle Club, Princeton Shakespeare Company, Mathey Peer Advisers
+activities: Triangle Club, Princeton Shakespeare Company, Mathey Peer Advisers, Princeton Tower Club
 interests: Collecting Broadway playbills, aww-ing at cute animal videos on YouTube (send me some!), watching Food Network competition shows
 memory: Our impromptu jam session on the bus ride back from the Orange and Black Ball in NYC
 

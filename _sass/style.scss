@@ -134,3 +134,15 @@ a#auditions_button {
 .auditions {
     display: none;
 }
+
+#cds {
+  overflow: hidden;
+  .cd {
+    text-align: center;
+    margin: 10px;
+    float: left;
+    img {
+      border: 1px solid black;
+    }
+  }
+}
