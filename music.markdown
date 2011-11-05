@@ -22,19 +22,14 @@ mmiyagi@princeton.edu.
 ### CDs
 
 <div id="cds">
-<a class="cd" href="/albums/2011">
-<div><img src="/images/albums/small/2011.jpg" /></div>
-<div>2011</div>
+<a class="cd" href="/albums/spark">
+<div><img src="/images/albums/small/spark.jpg" /></div>
+<div>Hint of a Spark</div>
 </a>
 
 <a class="cd" href="/albums/beginning">
 <div><img src="/images/albums/small/beginning2see.jpg" /></div>
 <div>Beginning to See the Light</div>
-</a>
-
-<a class="cd" href="/albums/spark">
-<div><img src="/images/albums/small/spark.jpg" /></div>
-<div>Hint of a Spark</div>
 </a>
 
 <a class="cd" href="/albums/tat">
