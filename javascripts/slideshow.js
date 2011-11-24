@@ -33,7 +33,17 @@ $(document).ready(function() {
     { src: '/images/slideshow/026.jpg' },
     { src: '/images/slideshow/027.jpg' },
     { src: '/images/slideshow/028.jpg' },
-    { src: '/images/slideshow/029.jpg' }
+    { src: '/images/slideshow/029.jpg' },
+    { src: '/images/slideshow/030.jpg' },
+    { src: '/images/slideshow/031.jpg' },
+    { src: '/images/slideshow/032.jpg' },
+    { src: '/images/slideshow/033.jpg' },
+    { src: '/images/slideshow/034.jpg' },
+    { src: '/images/slideshow/035.jpg' },
+    { src: '/images/slideshow/036.jpg' },
+    { src: '/images/slideshow/037.jpg' },
+    { src: '/images/slideshow/038.jpg' },
+    { src: '/images/slideshow/039.jpg' }
   ]);
 });
 
