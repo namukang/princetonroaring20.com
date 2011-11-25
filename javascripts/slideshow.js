@@ -43,7 +43,11 @@ $(document).ready(function() {
     { src: '/images/slideshow/036.jpg' },
     { src: '/images/slideshow/037.jpg' },
     { src: '/images/slideshow/038.jpg' },
-    { src: '/images/slideshow/039.jpg' }
+    { src: '/images/slideshow/039.jpg' },
+    { src: '/images/slideshow/040.jpg' },
+    { src: '/images/slideshow/041.jpg' },
+    { src: '/images/slideshow/042.jpg' },
+    { src: '/images/slideshow/043.jpg' }
   ]);
 });
 
