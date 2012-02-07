@@ -9,7 +9,7 @@ class: 2013
 voice: Alto
 major: English
 hometown: Potomac, Maryland
-office: Secretary
+office: Publicity Chair
 arrangements: 
 solos: Bleeding Love/No One, Somebody to Love
 

@@ -9,7 +9,7 @@ class: 2012
 voice: Soprano
 major: Politics
 hometown: Glen Cove, NY
-office: Music Director
+office: Senior Consultant
 solos: The Way I Am, Last Request
 
 fun-q1: Number of times traveled to Disney World

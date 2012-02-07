@@ -9,7 +9,7 @@ class: 2012
 voice: Alto
 major: Religion
 hometown: Washington, D.C.
-office: President
+office: Senior Consultant
 arrangements: 
 solos: Here in Your Arms, Whataya Want From Me, Crazy
 

@@ -10,7 +10,7 @@ class: 2013
 voice: Tenor
 major: French
 hometown: Wilmette, IL
-office: Reunions Manager
+office: Business Manager
 arrangements: 
 solos: Stacy's Mom
 

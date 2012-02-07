@@ -9,7 +9,7 @@ class: 2014
 voice: Soprano
 major: TBD
 hometown: Burbank, CA
-office: Alumni Coordinator
+office: Performance Director
 arrangements: 
 solos: Spaceman
 

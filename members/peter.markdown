@@ -10,7 +10,7 @@ class: 2012
 voice: Bass
 major: Chemistry
 hometown: Great Falls, VA
-office: Room Manager
+office: Senior Consultant
 arrangements: 
 solos: You Sexy Thing, Don't You Want Me Baby, Crazy
 

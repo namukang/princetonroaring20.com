@@ -9,7 +9,7 @@ class: 2014
 voice: Alto
 major: East Asian Studies
 hometown: Memphis, TN
-office: Sales Manager
+office: Tour Manager
 arrangements: 
 solos: Possession, Total Eclipse of the Heart
 

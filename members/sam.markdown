@@ -8,9 +8,9 @@ fullname: Sam Gavis-Hughson
 nickname: 
 class: 2015
 voice: Bass
-major: Computer Science (?)
+major: Computer Science
 hometown: Princeton, NJ
-office: 
+office: Social Chair
 arrangements: 
 solos: 
 

@@ -10,7 +10,7 @@ class: 2014
 voice: Tenor
 major: Public Policy
 hometown: Eugene, OR
-office: Tour Manager
+office: Sales Manager
 arrangements: 
 solos: Always on My Mind
 

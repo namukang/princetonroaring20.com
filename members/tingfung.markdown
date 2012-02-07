@@ -9,7 +9,7 @@ class: 2012
 voice: Tenor
 major: History
 hometown: Hong Kong
-office: Business Manager
+office: Senior Consultant
 arrangements: 
 solos: Spaceman
 

@@ -10,7 +10,7 @@ class: 2012
 voice: Bass
 major: Politics
 hometown: New York, NY
-office: Social Chair
+office: Senior Consultant
 arrangements: 
 solos: Summer Moon, The Scientist, Semi-Charmed Life
 

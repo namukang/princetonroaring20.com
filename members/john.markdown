@@ -10,7 +10,7 @@ class: 2015
 voice: Bass
 major: 
 hometown: Durham, North Carolina
-office: 
+office: Secretary/Room Manager
 arrangements: 
 solos: 
 
