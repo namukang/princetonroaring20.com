@@ -1,4 +1,4 @@
---- 
+---
 layout: two-col
 title: Auditions
 banner: /images/slideshow/023.jpg
@@ -7,7 +7,7 @@ banner: /images/slideshow/023.jpg
 ## Auditions
 
 <div class="auditions">
-<a href="http://goo.gl/5l3rP" id="auditions_button">Sign up now!</a>
+<a href="http://goo.gl/5Fr2l" id="auditions_button">Sign up now!</a>
 </div>
 
 ### Audition Schedule
