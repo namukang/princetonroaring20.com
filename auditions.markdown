@@ -52,9 +52,8 @@ Now we get to the fun part: the solo. You can perform for us any solo
 from any genre of music. We recommend choosing a song that you're
 comfortable with and that demonstrates your vocal strengths. Just to
 give you some ideas, solos used by current members include: Someone to
-Watch Over Me, I Just Can't Wait to be King, Heartless, The
-Star-Spangled Banner, Somewhere Over the Rainbow, Walking in Memphis,
-and more.
+Watch Over Me, I Just Can't Wait to be King, Heartless, Somewhere Over
+the Rainbow, Walking in Memphis, and more.
 
 In the final portion of the audition, the group will join you for a
 blending exercise. Singers on your voice part will surround you, and
