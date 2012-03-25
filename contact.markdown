@@ -29,6 +29,6 @@ Michael Pearlman [pearlman@princeton.edu](mailto:pearlman@princeton.edu)
 
 ### Mailing Address
 
-The Princeton Roaring 20
-5549 Frist Center
-Princeton, NJ 08544
+The Princeton Roaring 20  
+5549 Frist Center  
+Princeton, NJ 08544  
