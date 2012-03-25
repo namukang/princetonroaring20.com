@@ -21,15 +21,14 @@ The Roaring 20 is available for performances within driving distance
 of Princeton during the academic year, and travels nationally and
 internationally several times a year when school is not in session. If
 you would like further information regarding booking the Roaring 20
-for your event, contact us at
-[roaring@princeton.edu](mailto:roaring@princeton.edu).
+for your event, contact us!
 
-### Email Address
+### Contact Information
 
-[roaring@princeton.edu](mailto:roaring@princeton.edu)
+Michael Pearlman [pearlman@princeton.edu](mailto:pearlman@princeton.edu)
 
 ### Mailing Address
 
-The Princeton Roaring 20  
-5549 Frist Center  
-Princeton, NJ 08544  
+The Princeton Roaring 20
+5549 Frist Center
+Princeton, NJ 08544
