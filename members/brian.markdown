@@ -19,7 +19,7 @@ memory:
 fun-q1: Oddest ability
 fun-a1: Can squeak ear
 fun-q2: Favorite food
-fun-a2: Mam's chicken and dumplings
+fun-a2: Mama's chicken and dumplings
 
 ---
 
