@@ -226,6 +226,20 @@ a.profile {
     }
 }
 
+#brian {
+    .hidden {
+        @include profile('brian-b');
+    }
+    .image {
+        @include profile('brian');
+    }
+    &:hover {
+        .image {
+            @include profile('brian-b');
+        }
+    }
+}
+
 // Basses
 #peter {
     .hidden {
