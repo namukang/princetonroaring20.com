@@ -47,7 +47,8 @@ $(document).ready(function() {
     { src: '/images/slideshow/040.jpg' },
     { src: '/images/slideshow/041.jpg' },
     { src: '/images/slideshow/042.jpg' },
-    { src: '/images/slideshow/043.jpg' }
+    { src: '/images/slideshow/043.jpg' },
+    { src: '/images/slideshow/044.jpg' }
   ]);
 });
 
