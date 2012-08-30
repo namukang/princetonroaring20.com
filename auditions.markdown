@@ -12,9 +12,9 @@ banner: /images/slideshow/023.jpg
 
 ### Audition Schedule
 
-All interested members of the classes of 2014 and 2015 are welcome
+All interested members of the classes of 2015 and 2016 are welcome
 (and encouraged) to audition for R20. Come back soon to hear about
-spring auditions!
+fall auditions!
 
 ### Audition Location
 
