@@ -96,6 +96,19 @@ a.profile {
         }
     }
 }
+#caroline {
+    .hidden {
+        @include profile('caroline-b');
+    }
+    .image {
+        @include profile('caroline');
+    }
+    &:hover {
+        .image {
+            @include profile('caroline-b');
+        }
+    }
+}
 
 // Altos
 
@@ -236,6 +249,19 @@ a.profile {
     &:hover {
         .image {
             @include profile('brian-b');
+        }
+    }
+}
+#sung {
+    .hidden {
+        @include profile('sung-b');
+    }
+    .image {
+        @include profile('sung');
+    }
+    &:hover {
+        .image {
+            @include profile('sung-b');
         }
     }
 }
