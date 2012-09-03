@@ -7,7 +7,7 @@ banner: /images/slideshow/023.jpg
 ## Auditions
 
 <div class="auditions">
-<a href="https://wass.princeton.edu/pages/viewcalendar.page.php?cal_id=1134" id="auditions_button">Sign up now!</a>
+<a href="https://wass.princeton.edu/pages/viewcalendar.page.php?cal_id=1134" id="auditions_button" target="_blank">Sign up now!</a>
 </div>
 
 ### Audition Schedule
