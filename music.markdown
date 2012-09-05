@@ -111,12 +111,6 @@ Your browser does not support the audio element.
   </thead>
   <tbody>
     <tr> 
-      <td>1905 Reunion Song</td> 
-      <td>Princeton Traditional</td> 
-      <td>Dengel '10</td> 
-      <td>Ensemble</td> 
-    </tr> 
-    <tr> 
       <td>Always on my Mind</td> 
       <td>Phantom Planet</td> 
       <td>Dengel '10</td> 
@@ -126,13 +120,13 @@ Your browser does not support the audio element.
       <td>And So it Goes</td> 
       <td>Billy Joel</td> 
       <td>Pearson '94</td> 
-      <td>Ensemble</td> 
+      <td>Torin Rudeen '14</td> 
     </tr> 
     <tr> 
       <td>Bleeding Love / No One</td> 
       <td>Leona Lewis / Alicia Keys</td> 
       <td>Dengel '10</td> 
-      <td>Sutton Brown '11 <br /> Sarah-Anne Sillers '13</td> 
+      <td>Mary Lou Kolbenschlag '14 <br /> Sarah-Anne Sillers '13</td> 
     </tr> 
     <tr> 
       <td>Blue Skies</td> 
@@ -144,43 +138,37 @@ Your browser does not support the audio element.
       <td>Boston</td> 
       <td>Augstana</td> 
       <td>Thompson '11</td> 
-      <td>Sungmin Cho '11</td> 
+      <td>Sungmin Cho '14</td> 
     </tr> 
+    <tr> 
+      <td>Broken Hearts Medley</td> 
+      <td>Shontelle / Christina Perri / Adele</td> 
+      <td>Powell '13</td> 
+      <td>Desi Howry '14 <br /> Viv Chan '15 <br /> Mary Lou K. '14</td>
+    </tr>
     <tr> 
       <td>Chocolate</td> 
       <td>Snow Patrol</td> 
       <td>Dengel '10</td> 
-      <td>TBA</td> 
-    </tr> 
-    <tr> 
-      <td>Come Go With Me</td> 
-      <td>The Del-Vikings</td> 
-      <td>Jin '07</td> 
-      <td>Spencer Bowley '11</td> 
+      <td>Sungmin Cho '14</td> 
     </tr> 
     <tr> 
       <td>Come on Get Higher</td> 
       <td>Matt Nathanson</td> 
       <td>Powell '13</td> 
-      <td>Dan Kang '14 <br /> Katherine Ortmeyer '14</td> 
+      <td>Sungmin Cho '14 <br /> Katherine Ortmeyer '14</td> 
     </tr> 
     <tr> 
       <td>Crazy</td> 
       <td>Seal</td> 
       <td>Sheldon '02</td> 
-      <td>Peter Westman '12 <br /> Cara Hampton '12</td> 
-    </tr> 
-    <tr> 
-      <td>Don't You Want Me Baby</td> 
-      <td>The Human League</td> 
-      <td>Padula '89</td> 
-      <td>Peter Westman '12 <br /> Sutton Brown '11</td> 
-    </tr> 
+      <td>Teddy Eyster '12 <br /> Sarah Anne Sillers '12</td> 
+    </tr>
     <tr> 
       <td>Dream a Little Dream of Me</td> 
       <td>The Mamas and the Papas</td> 
       <td>Hanser '91</td> 
-      <td>Laura Hohnsbeen '11</td> 
+      <td>Katherine Ortmeyer '14</td> 
     </tr> 
     <tr> 
       <td>Fly Me to the Moon</td> 
@@ -198,7 +186,7 @@ Your browser does not support the audio element.
       <td>Here in Your Arms</td> 
       <td>Hellogoodbye</td> 
       <td>Buettner '09</td> 
-      <td>Cara Hampton '12</td> 
+      <td>Anna Powell '13</td> 
     </tr>
     <tr> 
       <td>Here With Me</td> 
@@ -231,16 +219,22 @@ Your browser does not support the audio element.
       <td>Ensemble</td> 
     </tr>
     <tr> 
+      <td>James Bond Medley</td> 
+      <td>Monty Norman / Shirley Bassey / Chris Cornell</td> 
+      <td>Powell '13</td> 
+      <td>Anna Powell '13 <br /> Torin Rudeen '14</td> 
+    </tr>
+    <tr> 
       <td>Kiss Him Goodbye</td> 
       <td>The Nylons / Steam</td> 
       <td>Padula '89 <br /> Lee '92</td> 
-      <td>Dan Kang '14</td>
+      <td>Michael Pearlman '13</td>
     </tr>
     <tr> 
       <td>Last Request</td> 
       <td>Paolo Nutini</td> 
       <td>Dengel '10</td> 
-      <td>Miyuki Miyagi '12</td> 
+      <td>Sarah Anne Sillers '13</td> 
     </tr>
     <tr> 
       <td>The Lullaby of Broadway</td> 
@@ -252,13 +246,19 @@ Your browser does not support the audio element.
       <td>Make Me Lose Control</td> 
       <td>Eric Carmen</td> 
       <td>Avery Miller '95 <br /> Rubeiz '97</td> 
-      <td>Sutton Brown '11</td> 
+      <td>Anna Powell '13</td> 
+    </tr>
+    <tr> 
+      <td>MLK</td> 
+      <td>U2</td> 
+      <td></td> 
+      <td>Torin Rudeen '14 <br /> Katherine Ortmeyer '14</td> 
     </tr>
     <tr> 
       <td>The Morse Code of Love</td> 
       <td>Nick Santamaria</td> 
       <td>Hsu '95</td> 
-      <td>Spencer Bowley '11</td> 
+      <td>Teddy Eyster '13</td> 
     </tr>
     <tr> 
       <td>Ob-la-di, Ob-la-da</td> 
@@ -294,13 +294,13 @@ Your browser does not support the audio element.
       <td>The Scientist</td> 
       <td>Coldplay</td> 
       <td>Thompson '11</td> 
-      <td>DJ Judd '12</td> 
+      <td>Torin Rudeen '14</td> 
     </tr>
     <tr> 
       <td>Semi-Charmed Life</td> 
       <td>Third Eye Blind</td> 
       <td>Segal '03</td> 
-      <td>DJ Judd '12</td>
+      <td></td>
     </tr>
     <tr> 
       <td>Somebody to Love</td> 
@@ -312,7 +312,13 @@ Your browser does not support the audio element.
       <td>Spaceman</td> 
       <td>The Killers</td> 
       <td>Powell '13</td> 
-      <td>Ting-Fung Chan '12 <br /> Mary Lou Kolbenschlag '14</td> 
+      <td>John Plonk '15 <br /> Mary Lou Kolbenschlag '14</td> 
+    </tr>
+    <tr> 
+      <td>Speechless</td> 
+      <td>Lady Gaga</td> 
+      <td>Miyagi '12</td> 
+      <td>Mary Lou Kolbenschlag '14</td> 
     </tr>
     <tr>
       <td>Stacy's Mom</td> 
@@ -330,13 +336,13 @@ Your browser does not support the audio element.
       <td>Summer Moon</td> 
       <td>R20 Original</td> 
       <td>Sherry '00</td> 
-      <td>DJ Judd '12</td> 
+      <td></td> 
     </tr>
     <tr> 
       <td>Sweet Home Alabama</td> 
       <td>Lynyrd Skynyrd</td> 
       <td>Ginsberg '05 <br /> Sheldon '02</td> 
-      <td>Sungmin Cho '11 <br /> Sutton Brown '11</td> 
+      <td>Teddy Eyster '13 <br /> Sarah Anne Sillers '13</td> 
     </tr>
     <tr> 
       <td>Their Hearts Were Full of Spring</td> 
@@ -354,7 +360,7 @@ Your browser does not support the audio element.
       <td>Time After Time</td> 
       <td>Cyndi Lauper</td> 
       <td>Francis '99</td> 
-      <td>TBA</td> 
+      <td>Christina Bott '13</td> 
     </tr>
     <tr> 
       <td>Total Eclipse of the Heart</td> 
@@ -366,25 +372,19 @@ Your browser does not support the audio element.
       <td>Under the Bridge</td> 
       <td>Red Hot Chili Peppers</td> 
       <td>Leiby '09</td> 
-      <td>Spencer Bowley '11</td> 
+      <td></td> 
     </tr>
     <tr> 
       <td>The Way I Am</td> 
       <td>Ingrid Michaelson</td> 
       <td>Buettner '09 <br /> Dengel '10</td> 
-      <td>Miyuki Miyagi '12</td> 
+      <td>Mary Lou Kolbenschlag '14</td> 
     </tr>
     <tr> 
       <td>Whataya Want From Me</td> 
       <td>Adam Lambert</td> 
       <td>Dengel '10</td> 
-      <td>Cara Hampton '12</td> 
-    </tr>
-    <tr> 
-      <td>You Sexy Thing</td> 
-      <td>Hot Chocolate</td> 
-      <td>Dengel '10</td> 
-      <td>Peter Westman '12</td> 
+      <td>Sarah Anne Sillers '13</td> 
     </tr>
   </tbody>
 </table> 
