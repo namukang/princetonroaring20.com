@@ -14,7 +14,7 @@ office: Auditions Manager
 arrangements: 
 solos: 
 
-activities: Chapel choir, PFA, PADI
+activities: Chapel choir, Aikido
 interests: Performance arts, nerd culture, video game history, martial arts
 memory: The "Twentysomething" jam
 

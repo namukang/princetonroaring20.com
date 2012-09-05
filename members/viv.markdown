@@ -12,7 +12,7 @@ major: Undecided
 hometown: Sydney, Australia
 office: Tour Manager
 arrangements: 
-solos: 
+solos: Broken Hearts medley
 
 activities: JV Tennis, Pi Beta Phi Sorority
 interests: The beach, things that smell good, drinking (soda of course), European summers, costume parties, whipping my hair back and forth, FOOD
