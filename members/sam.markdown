@@ -21,8 +21,8 @@ fun-q1: Percent of life lived within walking distance of Princeton
 fun-a1: 92.165%
 fun-q2: Favorite movie
 fun-a2: This is Spinal Tap
-fun-q3: 
-fun-a3: 
+fun-q3: Number of times caught in a hurricane while backpacking
+fun-a3: 3
 
 ---
 

@@ -11,18 +11,18 @@ major: East Asian Studies
 hometown: Memphis, TN
 office: Tour Manager
 arrangements: 
-solos: Possession, Total Eclipse of the Heart
+solos: Possession, Total Eclipse of the Heart, Broken Hearts Medley, Freedom
 
-activities: Cheerleading, PU Rock Ensemble
-interests: reading, graphic design, songwriting, taking shots straight no chaser, dancing, wasting my life on Reddit
+activities: Princeton Tower Club, Cheerleading, PU Rock Ensemble (PURE)
+interests: China, eating, dancing, graphic design, pointless iPhone games, wasting my life on Reddit
 memory: Singing with the Dartmouth Cords
 
-fun-q1: Secret identity
-fun-a1: Scooby Doo
-fun-q2: Biggest wish
-fun-a2: To be on America's Best Dance Crew
-fun-q3: 
-fun-a3: 
+fun-q1: Favorite Chinese Novel
+fun-a1: Kong Yiji
+fun-q2: Favorite Color
+fun-a2: #87c639
+fun-q3: Number of Browsers Installed on Computer
+fun-a3: 5
 
 ---
 
