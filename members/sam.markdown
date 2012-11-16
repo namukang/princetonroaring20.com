@@ -12,7 +12,7 @@ major: Computer Science
 hometown: Princeton, NJ
 office: Social Chair
 arrangements: 
-solos: 
+solos: Under The Bridge
 
 activities: Fun stuff, being awesome, eating
 interests: Ultimate frisbee, singing, playing jazz trumpet, engineering, computer programming, backpacking
