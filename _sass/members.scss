@@ -41,20 +41,6 @@ a.profile {
 
 // Sopranos
 
-#miyuki {
-    .hidden {
-        @include profile('miyuki-b');
-    }
-    .image {
-        @include profile('miyuki');
-    }
-    &:hover {
-        .image {
-            @include profile('miyuki-b');
-        }
-    }
-}
-
 #anna {
     .hidden {
         @include profile('anna-b');
@@ -112,20 +98,6 @@ a.profile {
 
 // Altos
 
-#cara {
-    .hidden {
-        @include profile('cara-b');
-    }
-    .image {
-        @include profile('cara');
-    }
-    &:hover {
-        .image {
-            @include profile('cara-b');
-        }
-    }
-}
-
 #sarahanne {
     .hidden {
         @include profile('sarahanne-b');
@@ -182,20 +154,21 @@ a.profile {
     }
 }
 
-// Tenors
-#tingfung {
+#michaela {
     .hidden {
-        @include profile('tingfung-b');
+        @include profile('michaela-b');
     }
     .image {
-        @include profile('tingfung');
+        @include profile('michaela');
     }
     &:hover {
         .image {
-            @include profile('tingfung-b');
+            @include profile('michaela-b');
         }
     }
 }
+
+// Tenors
 
 #michael {
     .hidden {
@@ -266,34 +239,21 @@ a.profile {
     }
 }
 
-// Basses
-#peter {
+#ben {
     .hidden {
-        @include profile('peter-b');
+        @include profile('ben-b');
     }
     .image {
-        @include profile('peter');
+        @include profile('ben');
     }
     &:hover {
         .image {
-            @include profile('peter-b');
+            @include profile('ben-b');
         }
     }
 }
 
-#dj {
-    .hidden {
-        @include profile('dj-b');
-    }
-    .image {
-        @include profile('dj');
-    }
-    &:hover {
-        .image {
-            @include profile('dj-b');
-        }
-    }
-}
+// Basses
 
 #teddy {
     .hidden {
