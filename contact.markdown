@@ -1,10 +1,10 @@
 ---
 layout: two-col
-title: Contact Us
+title: Hire Us
 banner: /images/slideshow/025.jpg
 ---
 
-## Contact Us
+## Hire Us
 
 ### Booking
 
@@ -25,7 +25,7 @@ for your event, contact us!
 
 ### Contact Information
 
-Michael Pearlman [pearlman@princeton.edu](mailto:pearlman@princeton.edu)
+John Plonk [jplonk@princeton.edu](mailto:jplonk@princeton.edu)
 
 ### Mailing Address
 

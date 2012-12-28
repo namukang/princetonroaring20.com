@@ -31,20 +31,20 @@ minutes.
 We begin the audition by introducing you to the group and getting to
 know a little bit about you - where you're from, where you live, etc.
 
-Then our Music Director, [Katherine](/members/katherine), will guide you
+Then our Music Director, [Torin](/members/torin), will guide you
 through some 5-tone scales to warm you up and test your range (though
 we definitely recommend warming up a bit on your own before the
 audition).
 
 The next component of the audition is swells. Swells will help us get
-an idea of your volume and control. First, Katherine will play the pitch
+an idea of your volume and control. First, Torin will play the pitch
 we want to hear you swell on. Then you will start by singing as soft
 as you possibly can, gradually crescendo to your loudest possible
 volume, and decrescendo back to where you started. It doesn't matter
 how long you hold the note for - we're mostly just interested in
 hearing dynamic contrast.
 
-Next comes pitch matching. Katherine will play a few sets of 3 or 4 notes
+Next comes pitch matching. Torin will play a few sets of 3 or 4 notes
 on the piano and have you sing them back to the group. Try to sing
 them as accurately as you can - if you need to hear the notes played
 multiple times, that's completely fine.

@@ -10,7 +10,7 @@ class: 2015
 voice: Alto
 major: Undecided
 hometown: Sydney, Australia
-office: Tour Manager
+office: President
 arrangements: 
 solos: Broken Hearts medley
 
