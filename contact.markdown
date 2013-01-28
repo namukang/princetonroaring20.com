@@ -1,10 +1,10 @@
 ---
 layout: two-col
-title: Hire Us
+title: Contact Us
 banner: /images/slideshow/025.jpg
 ---
 
-## Hire Us
+## Contact Us
 
 ### Booking
 

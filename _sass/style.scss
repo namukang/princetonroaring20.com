@@ -127,7 +127,19 @@ li audio {
     display: none;
 }
 
+.auditions {
+    margin: 1em 0 0;
+}
+
 a#auditions_button {
+    @include r20-button($orange);
+}
+
+.hire {
+    margin: 1em 0 0 0;
+}
+
+a#hire_button {
     @include r20-button($orange);
 }
 
