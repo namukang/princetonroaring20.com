@@ -17,7 +17,7 @@ the group yearly. The music director not only runs rehearsals, but
 also oversees the production of our CDs and sings as full member of
 the group. For questions concerning music and performance, you can
 contact our current music director, Torin Rudeen, at
-torinmr@princeton.edu.
+trudeen@princeton.edu.
 
 ### CDs
 

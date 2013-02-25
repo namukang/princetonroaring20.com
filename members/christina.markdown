@@ -9,7 +9,7 @@ class: 2013
 voice: Soprano
 major: French
 hometown: New York, NY
-office: President
+office:
 arrangements: 
 solos: Here with Me, Hey Jude
 
