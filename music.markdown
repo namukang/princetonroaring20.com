@@ -22,6 +22,11 @@ trudeen@princeton.edu.
 ### CDs
 
 <div id="cds">
+<a class="cd" href="/albums/b2ts">
+<div><img src="/images/albums/small/b2ts.png" /></div>
+<div>Back to the Start</div>
+</a>
+
 <a class="cd" href="/albums/spark">
 <div><img src="/images/albums/small/spark.jpg" /></div>
 <div>Hint of a Spark</div>
