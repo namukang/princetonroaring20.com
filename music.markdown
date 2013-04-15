@@ -44,6 +44,22 @@ trudeen@princeton.edu.
 </div>
 
 ### Audio Clips
+* [Fly Me To The Moon - Frank Sinatra](#)  
+<audio src="/clips/FlyMeToTheMoon.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+* [Bleeding Love/No One - Leona Lewis/Alicia Keys](#)  
+<audio src="/clips/BleedingLove.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+* [Spaceman - The Killers](#)  
+<audio src="/clips/Spaceman.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+* [The Scientist - Coldplay](#)  
+<audio src="/clips/TheScientist.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
 
 * [Hide and Seek - Imogen Heap](#)  
 <audio src="/clips/HideAndSeek.mp3" controls="controls">
