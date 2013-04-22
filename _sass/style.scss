@@ -147,6 +147,15 @@ a#hire_button {
     display: block;
 }
 
+a#cds-button {
+    @include r20-button($orange);
+}
+
+.cds {
+    display: block;
+    margin: 1em 0 0 0;
+}
+
 #cds {
   overflow: hidden;
   .cd {
@@ -158,3 +167,7 @@ a#hire_button {
     }
   }
 }
+
+/*.content {
+    margin-top: 10px;
+}*/

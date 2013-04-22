@@ -96,6 +96,20 @@ a.profile {
     }
 }
 
+#erika {
+    .hidden {
+        @include profile('erika-b');
+    }
+    .image {
+        @include profile('erika');
+    }
+    &:hover {
+        .image {
+            @include profile('erika-b');
+        }
+    }
+}
+
 // Altos
 
 #sarahanne {
@@ -307,6 +321,20 @@ a.profile {
     &:hover {
         .image {
             @include profile('john-b');
+        }
+    }
+}
+
+#charlie {
+    .hidden {
+        @include profile('charlie-b');
+    }
+    .image {
+        @include profile('charlie');
+    }
+    &:hover {
+        .image {
+            @include profile('charlie-b');
         }
     }
 }
