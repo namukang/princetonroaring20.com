@@ -41,20 +41,6 @@ a.profile {
 
 // Sopranos
 
-#miyuki {
-    .hidden {
-        @include profile('miyuki-b');
-    }
-    .image {
-        @include profile('miyuki');
-    }
-    &:hover {
-        .image {
-            @include profile('miyuki-b');
-        }
-    }
-}
-
 #anna {
     .hidden {
         @include profile('anna-b');
@@ -96,22 +82,35 @@ a.profile {
         }
     }
 }
-
-// Altos
-
-#cara {
+#caroline {
     .hidden {
-        @include profile('cara-b');
+        @include profile('caroline-b');
     }
     .image {
-        @include profile('cara');
+        @include profile('caroline');
     }
     &:hover {
         .image {
-            @include profile('cara-b');
+            @include profile('caroline-b');
         }
     }
 }
+
+#erika {
+    .hidden {
+        @include profile('erika-b');
+    }
+    .image {
+        @include profile('erika');
+    }
+    &:hover {
+        .image {
+            @include profile('erika-b');
+        }
+    }
+}
+
+// Altos
 
 #sarahanne {
     .hidden {
@@ -169,20 +168,21 @@ a.profile {
     }
 }
 
-// Tenors
-#tingfung {
+#michaela {
     .hidden {
-        @include profile('tingfung-b');
+        @include profile('michaela-b');
     }
     .image {
-        @include profile('tingfung');
+        @include profile('michaela');
     }
     &:hover {
         .image {
-            @include profile('tingfung-b');
+            @include profile('michaela-b');
         }
     }
 }
+
+// Tenors
 
 #michael {
     .hidden {
@@ -239,35 +239,35 @@ a.profile {
         }
     }
 }
+#sung {
+    .hidden {
+        @include profile('sung-b');
+    }
+    .image {
+        @include profile('sung');
+    }
+    &:hover {
+        .image {
+            @include profile('sung-b');
+        }
+    }
+}
+
+#ben {
+    .hidden {
+        @include profile('ben-b');
+    }
+    .image {
+        @include profile('ben');
+    }
+    &:hover {
+        .image {
+            @include profile('ben-b');
+        }
+    }
+}
 
 // Basses
-#peter {
-    .hidden {
-        @include profile('peter-b');
-    }
-    .image {
-        @include profile('peter');
-    }
-    &:hover {
-        .image {
-            @include profile('peter-b');
-        }
-    }
-}
-
-#dj {
-    .hidden {
-        @include profile('dj-b');
-    }
-    .image {
-        @include profile('dj');
-    }
-    &:hover {
-        .image {
-            @include profile('dj-b');
-        }
-    }
-}
 
 #teddy {
     .hidden {
@@ -321,6 +321,20 @@ a.profile {
     &:hover {
         .image {
             @include profile('john-b');
+        }
+    }
+}
+
+#charlie {
+    .hidden {
+        @include profile('charlie-b');
+    }
+    .image {
+        @include profile('charlie');
+    }
+    &:hover {
+        .image {
+            @include profile('charlie-b');
         }
     }
 }

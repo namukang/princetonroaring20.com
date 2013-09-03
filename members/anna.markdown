@@ -9,7 +9,7 @@ class: 2013
 voice: Soprano
 major: Mystery
 hometown: Los Altos, CA
-office: Alumni/Reunions Manager
+office: 
 arrangements: Spaceman; Come On Get Higher; Bond, James Bond; Broken Hearts Medley
 solos: Stacy's Mom
 activities: Glee Club, Princeton Opera Company, acting/directing

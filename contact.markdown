@@ -25,7 +25,7 @@ for your event, contact us!
 
 ### Contact Information
 
-Michael Pearlman [pearlman@princeton.edu](mailto:pearlman@princeton.edu)
+John Plonk [jplonk@princeton.edu](mailto:jplonk@princeton.edu)
 
 ### Mailing Address
 
