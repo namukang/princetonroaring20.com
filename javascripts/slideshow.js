@@ -1,7 +1,7 @@
 $(document).ready(function() {
   // Slideshow on main page
   $('#slideshow').crossSlide({
-    sleep: 2,
+    sleep: 5,
     fade: 1,
     shuffle: true
   }, [
@@ -48,7 +48,10 @@ $(document).ready(function() {
     { src: '/images/slideshow/041.jpg' },
     { src: '/images/slideshow/042.jpg' },
     { src: '/images/slideshow/043.jpg' },
-    { src: '/images/slideshow/044.jpg' }
+    { src: '/images/slideshow/044.jpg' },
+    { src: '/images/slideshow/045.jpg' },
+    { src: '/images/slideshow/046.jpg' },
+    { src: '/images/slideshow/047.jpg' }
   ]);
 });
 

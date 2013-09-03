@@ -9,7 +9,7 @@ class: 2014
 voice: Alto
 major: Undecided
 hometown: Philadelphia, PA
-office: Music Director
+office: 
 arrangements: 
 solos: Come On Get Higher
 

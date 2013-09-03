@@ -7,11 +7,11 @@ banner: /images/profiles/marylou.jpg
 fullname: Mary Lou Kolbenschlag
 class: 2014
 voice: Soprano
-major: TBD
+major: Art History
 hometown: Burbank, CA
 office: Performance Director
 arrangements: 
-solos: Spaceman
+solos: Bleeding Love, Spaceman, Speechless, Someone Like You, The Way I Am
 
 activities: Princeton Triangle Club, Princeton University Players
 interests: Making music, making noises, overdressing, Google docs, iCal, memes, reminding everyone west coast = best coast

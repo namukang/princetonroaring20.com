@@ -10,11 +10,11 @@ class: 2015
 voice: Bass
 major: 
 hometown: Durham, North Carolina
-office: Secretary/Room Manager
+office: Business Manager
 arrangements: 
-solos: 
+solos: Spaceman
 
-activities: Crew, Kappa Alpha Order Fraternity
+activities: Kappa Alpha Order Fraternity, Princeton Club Baseball, Princeton Entrepreneurship Club
 interests: Traveling, hiking, sleeping when I can, rocking the best cardigans on campus
 
 fun-q1: Time spent shopping exclusively at thrift stores

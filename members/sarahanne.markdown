@@ -11,7 +11,7 @@ major: English
 hometown: Potomac, Maryland
 office: Publicity Chair
 arrangements: 
-solos: Bleeding Love/No One, Somebody to Love
+solos: Bleeding Love/No One, Somebody to Love, Last Request, Sweet Home Alabama, Whataya Want From Me
 
 activities: Triangle Club, Princeton Shakespeare Company, Mathey Peer Advisers, Princeton Tower Club
 interests: Collecting Broadway playbills, aww-ing at cute animal videos on YouTube (send me some!), watching Food Network competition shows
