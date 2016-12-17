@@ -4,6 +4,8 @@ Website for the Princeton Roaring 20 a cappella group built using jekyll, compas
 
 ## How to run
 
+Gem prerequisites: `bundler`, `jekyll`, `compass`, `compass-blueprint`
+
 ```
 bundle install
 compass compile
