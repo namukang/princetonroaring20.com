@@ -9,5 +9,5 @@ Gem prerequisites: `bundler`, `jekyll`, `compass`, `compass-blueprint`
 ```
 bundle install
 compass compile
-jekyll
+bundle exec jekyll build
 ```
