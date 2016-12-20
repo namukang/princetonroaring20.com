@@ -22,22 +22,22 @@ trudeen@princeton.edu.
 ### CDs
 
 <div id="cds">
-<a class="cd" href="/albums/b2ts">
+<a class="cd" href="{{ site.github.url }}/albums/b2ts">
 <div><img src="{{ site.github.url }}/images/albums/small/b2ts.png" /></div>
 <div>Back to the Start</div>
 </a>
 
-<a class="cd" href="/albums/spark">
+<a class="cd" href="{{ site.github.url }}/albums/spark">
 <div><img src="{{ site.github.url }}/images/albums/small/spark.jpg" /></div>
 <div>Hint of a Spark</div>
 </a>
 
-<a class="cd" href="/albums/beginning">
+<a class="cd" href="{{ site.github.url }}/albums/beginning">
 <div><img src="{{ site.github.url }}/images/albums/small/beginning2see.jpg" /></div>
 <div>Beginning to See the Light</div>
 </a>
 
-<a class="cd" href="/albums/tat">
+<a class="cd" href="{{ site.github.url }}/albums/tat">
 <div><img src="{{ site.github.url }}/images/albums/small/tat.jpg" /></div>
 <div>Time After Time</div>
 </a>
