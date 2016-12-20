@@ -1,7 +1,7 @@
 @import "partials/base";
 
 @mixin profile($name) {
-    background: url('/images/members/current/' + $name + '.jpg');
+    background: image-url('members/current/' + $name + '.jpg');
 }
 
 .hidden {
