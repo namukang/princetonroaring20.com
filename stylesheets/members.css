@@ -125,273 +125,273 @@ a.profile {
 
 /* line 45, ../_sass/members.scss */
 #anna .hidden {
-  background: url("{{ site.github.url }}/images/members/current/anna-b.jpg");
+  background: url("/images/members/current/anna-b.jpg");
 }
 /* line 48, ../_sass/members.scss */
 #anna .image {
-  background: url("{{ site.github.url }}/images/members/current/anna.jpg");
+  background: url("/images/members/current/anna.jpg");
 }
 /* line 52, ../_sass/members.scss */
 #anna:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/anna-b.jpg");
+  background: url("/images/members/current/anna-b.jpg");
 }
 
 /* line 59, ../_sass/members.scss */
 #christina .hidden {
-  background: url("{{ site.github.url }}/images/members/current/christina-b.jpg");
+  background: url("/images/members/current/christina-b.jpg");
 }
 /* line 62, ../_sass/members.scss */
 #christina .image {
-  background: url("{{ site.github.url }}/images/members/current/christina.jpg");
+  background: url("/images/members/current/christina.jpg");
 }
 /* line 66, ../_sass/members.scss */
 #christina:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/christina-b.jpg");
+  background: url("/images/members/current/christina-b.jpg");
 }
 
 /* line 73, ../_sass/members.scss */
 #marylou .hidden {
-  background: url("{{ site.github.url }}/images/members/current/marylou-b.jpg");
+  background: url("/images/members/current/marylou-b.jpg");
 }
 /* line 76, ../_sass/members.scss */
 #marylou .image {
-  background: url("{{ site.github.url }}/images/members/current/marylou.jpg");
+  background: url("/images/members/current/marylou.jpg");
 }
 /* line 80, ../_sass/members.scss */
 #marylou:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/marylou-b.jpg");
+  background: url("/images/members/current/marylou-b.jpg");
 }
 
 /* line 86, ../_sass/members.scss */
 #caroline .hidden {
-  background: url("{{ site.github.url }}/images/members/current/caroline-b.jpg");
+  background: url("/images/members/current/caroline-b.jpg");
 }
 /* line 89, ../_sass/members.scss */
 #caroline .image {
-  background: url("{{ site.github.url }}/images/members/current/caroline.jpg");
+  background: url("/images/members/current/caroline.jpg");
 }
 /* line 93, ../_sass/members.scss */
 #caroline:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/caroline-b.jpg");
+  background: url("/images/members/current/caroline-b.jpg");
 }
 
 /* line 100, ../_sass/members.scss */
 #erika .hidden {
-  background: url("{{ site.github.url }}/images/members/current/erika-b.jpg");
+  background: url("/images/members/current/erika-b.jpg");
 }
 /* line 103, ../_sass/members.scss */
 #erika .image {
-  background: url("{{ site.github.url }}/images/members/current/erika.jpg");
+  background: url("/images/members/current/erika.jpg");
 }
 /* line 107, ../_sass/members.scss */
 #erika:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/erika-b.jpg");
+  background: url("/images/members/current/erika-b.jpg");
 }
 
 /* line 116, ../_sass/members.scss */
 #sarahanne .hidden {
-  background: url("{{ site.github.url }}/images/members/current/sarahanne-b.jpg");
+  background: url("/images/members/current/sarahanne-b.jpg");
 }
 /* line 119, ../_sass/members.scss */
 #sarahanne .image {
-  background: url("{{ site.github.url }}/images/members/current/sarahanne.jpg");
+  background: url("/images/members/current/sarahanne.jpg");
 }
 /* line 123, ../_sass/members.scss */
 #sarahanne:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/sarahanne-b.jpg");
+  background: url("/images/members/current/sarahanne-b.jpg");
 }
 
 /* line 130, ../_sass/members.scss */
 #desiree .hidden {
-  background: url("{{ site.github.url }}/images/members/current/desiree-b.jpg");
+  background: url("/images/members/current/desiree-b.jpg");
 }
 /* line 133, ../_sass/members.scss */
 #desiree .image {
-  background: url("{{ site.github.url }}/images/members/current/desiree.jpg");
+  background: url("/images/members/current/desiree.jpg");
 }
 /* line 137, ../_sass/members.scss */
 #desiree:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/desiree-b.jpg");
+  background: url("/images/members/current/desiree-b.jpg");
 }
 
 /* line 144, ../_sass/members.scss */
 #katherine .hidden {
-  background: url("{{ site.github.url }}/images/members/current/katherine-b.jpg");
+  background: url("/images/members/current/katherine-b.jpg");
 }
 /* line 147, ../_sass/members.scss */
 #katherine .image {
-  background: url("{{ site.github.url }}/images/members/current/katherine.jpg");
+  background: url("/images/members/current/katherine.jpg");
 }
 /* line 151, ../_sass/members.scss */
 #katherine:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/katherine-b.jpg");
+  background: url("/images/members/current/katherine-b.jpg");
 }
 
 /* line 158, ../_sass/members.scss */
 #viv .hidden {
-  background: url("{{ site.github.url }}/images/members/current/viv-b.jpg");
+  background: url("/images/members/current/viv-b.jpg");
 }
 /* line 161, ../_sass/members.scss */
 #viv .image {
-  background: url("{{ site.github.url }}/images/members/current/viv.jpg");
+  background: url("/images/members/current/viv.jpg");
 }
 /* line 165, ../_sass/members.scss */
 #viv:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/viv-b.jpg");
+  background: url("/images/members/current/viv-b.jpg");
 }
 
 /* line 172, ../_sass/members.scss */
 #michaela .hidden {
-  background: url("{{ site.github.url }}/images/members/current/michaela-b.jpg");
+  background: url("/images/members/current/michaela-b.jpg");
 }
 /* line 175, ../_sass/members.scss */
 #michaela .image {
-  background: url("{{ site.github.url }}/images/members/current/michaela.jpg");
+  background: url("/images/members/current/michaela.jpg");
 }
 /* line 179, ../_sass/members.scss */
 #michaela:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/michaela-b.jpg");
+  background: url("/images/members/current/michaela-b.jpg");
 }
 
 /* line 188, ../_sass/members.scss */
 #michael .hidden {
-  background: url("{{ site.github.url }}/images/members/current/michael-b.jpg");
+  background: url("/images/members/current/michael-b.jpg");
 }
 /* line 191, ../_sass/members.scss */
 #michael .image {
-  background: url("{{ site.github.url }}/images/members/current/michael.jpg");
+  background: url("/images/members/current/michael.jpg");
 }
 /* line 195, ../_sass/members.scss */
 #michael:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/michael-b.jpg");
+  background: url("/images/members/current/michael-b.jpg");
 }
 
 /* line 202, ../_sass/members.scss */
 #dk .hidden {
-  background: url("{{ site.github.url }}/images/members/current/dk-b.jpg");
+  background: url("/images/members/current/dk-b.jpg");
 }
 /* line 205, ../_sass/members.scss */
 #dk .image {
-  background: url("{{ site.github.url }}/images/members/current/dk.jpg");
+  background: url("/images/members/current/dk.jpg");
 }
 /* line 209, ../_sass/members.scss */
 #dk:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/dk-b.jpg");
+  background: url("/images/members/current/dk-b.jpg");
 }
 
 /* line 216, ../_sass/members.scss */
 #torin .hidden {
-  background: url("{{ site.github.url }}/images/members/current/torin-b.jpg");
+  background: url("/images/members/current/torin-b.jpg");
 }
 /* line 219, ../_sass/members.scss */
 #torin .image {
-  background: url("{{ site.github.url }}/images/members/current/torin.jpg");
+  background: url("/images/members/current/torin.jpg");
 }
 /* line 223, ../_sass/members.scss */
 #torin:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/torin-b.jpg");
+  background: url("/images/members/current/torin-b.jpg");
 }
 
 /* line 230, ../_sass/members.scss */
 #brian .hidden {
-  background: url("{{ site.github.url }}/images/members/current/brian-b.jpg");
+  background: url("/images/members/current/brian-b.jpg");
 }
 /* line 233, ../_sass/members.scss */
 #brian .image {
-  background: url("{{ site.github.url }}/images/members/current/brian.jpg");
+  background: url("/images/members/current/brian.jpg");
 }
 /* line 237, ../_sass/members.scss */
 #brian:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/brian-b.jpg");
+  background: url("/images/members/current/brian-b.jpg");
 }
 
 /* line 243, ../_sass/members.scss */
 #sung .hidden {
-  background: url("{{ site.github.url }}/images/members/current/sung-b.jpg");
+  background: url("/images/members/current/sung-b.jpg");
 }
 /* line 246, ../_sass/members.scss */
 #sung .image {
-  background: url("{{ site.github.url }}/images/members/current/sung.jpg");
+  background: url("/images/members/current/sung.jpg");
 }
 /* line 250, ../_sass/members.scss */
 #sung:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/sung-b.jpg");
+  background: url("/images/members/current/sung-b.jpg");
 }
 
 /* line 257, ../_sass/members.scss */
 #ben .hidden {
-  background: url("{{ site.github.url }}/images/members/current/ben-b.jpg");
+  background: url("/images/members/current/ben-b.jpg");
 }
 /* line 260, ../_sass/members.scss */
 #ben .image {
-  background: url("{{ site.github.url }}/images/members/current/ben.jpg");
+  background: url("/images/members/current/ben.jpg");
 }
 /* line 264, ../_sass/members.scss */
 #ben:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/ben-b.jpg");
+  background: url("/images/members/current/ben-b.jpg");
 }
 
 /* line 273, ../_sass/members.scss */
 #teddy .hidden {
-  background: url("{{ site.github.url }}/images/members/current/teddy-b.jpg");
+  background: url("/images/members/current/teddy-b.jpg");
 }
 /* line 276, ../_sass/members.scss */
 #teddy .image {
-  background: url("{{ site.github.url }}/images/members/current/teddy.jpg");
+  background: url("/images/members/current/teddy.jpg");
 }
 /* line 280, ../_sass/members.scss */
 #teddy:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/teddy-b.jpg");
+  background: url("/images/members/current/teddy-b.jpg");
 }
 
 /* line 287, ../_sass/members.scss */
 #jonah .hidden {
-  background: url("{{ site.github.url }}/images/members/current/jonah-b.jpg");
+  background: url("/images/members/current/jonah-b.jpg");
 }
 /* line 290, ../_sass/members.scss */
 #jonah .image {
-  background: url("{{ site.github.url }}/images/members/current/jonah.jpg");
+  background: url("/images/members/current/jonah.jpg");
 }
 /* line 294, ../_sass/members.scss */
 #jonah:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/jonah-b.jpg");
+  background: url("/images/members/current/jonah-b.jpg");
 }
 
 /* line 301, ../_sass/members.scss */
 #sam .hidden {
-  background: url("{{ site.github.url }}/images/members/current/sam-b.jpg");
+  background: url("/images/members/current/sam-b.jpg");
 }
 /* line 304, ../_sass/members.scss */
 #sam .image {
-  background: url("{{ site.github.url }}/images/members/current/sam.jpg");
+  background: url("/images/members/current/sam.jpg");
 }
 /* line 308, ../_sass/members.scss */
 #sam:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/sam-b.jpg");
+  background: url("/images/members/current/sam-b.jpg");
 }
 
 /* line 315, ../_sass/members.scss */
 #john .hidden {
-  background: url("{{ site.github.url }}/images/members/current/john-b.jpg");
+  background: url("/images/members/current/john-b.jpg");
 }
 /* line 318, ../_sass/members.scss */
 #john .image {
-  background: url("{{ site.github.url }}/images/members/current/john.jpg");
+  background: url("/images/members/current/john.jpg");
 }
 /* line 322, ../_sass/members.scss */
 #john:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/john-b.jpg");
+  background: url("/images/members/current/john-b.jpg");
 }
 
 /* line 329, ../_sass/members.scss */
 #charlie .hidden {
-  background: url("{{ site.github.url }}/images/members/current/charlie-b.jpg");
+  background: url("/images/members/current/charlie-b.jpg");
 }
 /* line 332, ../_sass/members.scss */
 #charlie .image {
-  background: url("{{ site.github.url }}/images/members/current/charlie.jpg");
+  background: url("/images/members/current/charlie.jpg");
 }
 /* line 336, ../_sass/members.scss */
 #charlie:hover .image {
-  background: url("{{ site.github.url }}/images/members/current/charlie-b.jpg");
+  background: url("/images/members/current/charlie-b.jpg");
 }
