@@ -9,22 +9,22 @@ class: 2014
 voice: Alto
 major: Undecided
 hometown: Philadelphia, PA
-office: 
-arrangements: 
+office:
+arrangements:
 solos: Come On Get Higher
 
 fun-q1: Favorite soda
 fun-a1: San Pellegrino (Foil covering = classy x10)
 fun-q2: Retirement dream
 fun-a2: Become a cat lady/park ranger in Yellowstone National Park
-fun-q3: 
-fun-a3: 
+fun-q3:
+fun-a3:
 
 ---
 
 ### Bio
 
-![Katherine](/images/members/current/katherine.jpg)
+![Katherine]({{ site.github.url }}/images/members/current/katherine.jpg)
 
 A cheese-stick and dog loving Philly girl, Katherine is a first year
 student who could not feel more at home with her new family, the

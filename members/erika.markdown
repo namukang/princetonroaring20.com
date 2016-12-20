@@ -5,31 +5,31 @@ title: Erika
 banner: /images/profiles/erika.jpg
 
 fullname: Erika Baikoff
-nickname: 
+nickname:
 class: 2016
 voice: Soprano
 major: French and Music, certificates in vocal performance and Italian
 hometown: Brooklyn, New York
-office: 
-arrangements: 
+office:
+arrangements:
 solos:
 
 activities: Glee Club, Princeton Opera Company, Princeton University Players
 interests: learning languages, loose-leaf teas, contemporary operas, cats, dance
-memory: 
+memory:
 
 fun-q1: Favorite word
 fun-a1: yasswerkfierce
 fun-q2: Favorite opera
 fun-a2: A Streetcar Named Desire
-fun-q3: 
-fun-a3: 
+fun-q3:
+fun-a3:
 
 ---
 
 ### Bio
 
-![Erika](/images/members/current/erika.jpg)
+![Erika]({{ site.github.url }}/images/members/current/erika.jpg)
 
 Born and raised in Brooklyn, New York, Erika is a hard to miss ball of arpeggiated
 giggles and nearly glass-shattering high notes. Erika spent her childhood prancing

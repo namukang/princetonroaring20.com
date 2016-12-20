@@ -5,13 +5,13 @@ title: Torin
 banner: /images/profiles/torin.jpg
 
 fullname: Torin Rudeen
-nickname: 
+nickname:
 class: 2014
 voice: Tenor
 major: Public Policy
 hometown: Eugene, OR
 office: Music Director
-arrangements: 
+arrangements:
 solos: Always on My Mind
 
 activities: Chapel Choir, Chamber Choir
@@ -29,7 +29,7 @@ fun-a3: 63%
 
 ### Bio
 
-![Torin](/images/members/current/torin.jpg)
+![Torin]({{ site.github.url }}/images/members/current/torin.jpg)
 
 Torin hails from the verdant suburbs of Eugene, Oregon, and feels
 privileged to be able to sing with a group as fine as Roaring 20. At

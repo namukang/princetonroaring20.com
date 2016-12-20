@@ -5,13 +5,13 @@ title: Michael
 banner: /images/profiles/michael.jpg
 
 fullname: Michael Pearlman
-nickname: 
+nickname:
 class: 2013
 voice: Tenor
 major: French
 hometown: Wilmette, IL
 office:
-arrangements: 
+arrangements:
 solos: Stacy's Mom
 
 activities: PUP, Cap & Gown, Running, OA Leader, Colosseum Club, Sprint Football
@@ -29,6 +29,6 @@ fun-a3: 2nd place
 
 ### Bio
 
-![Michael](/images/members/current/michael.jpg)
+![Michael]({{ site.github.url }}/images/members/current/michael.jpg)
 
 Michael is so grateful to be spending one more year with the Roaring 20.  After joining as a Freshman, he has spent a large part of the last 3 years growing with the group; musically, physically (over 5'10", what what!), and otherwise.  After studying in Paris last Spring and bidding the departing seniors the kindest of regards at Reunions, he is excited to take his place as a senior member of the group.  He would like to use his last few words of this bio to thank all the members of the Roaring 20, new and old, for the great times and for being his family on campus.

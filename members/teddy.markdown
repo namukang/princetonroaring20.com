@@ -5,13 +5,13 @@ title: Teddy
 banner: /images/profiles/teddy.jpg
 
 fullname: Theodore DeWitt Eyster
-nickname: 
+nickname:
 class: 2013
 voice: Bass
 major: Engineering
 hometown: Chelsea, MI
 office: Auditions Manager
-arrangements: 
+arrangements:
 solos: Sweet Home Alabama, Morse Code of Love
 
 activities: Running Club, Riseup Singing, Band
@@ -22,14 +22,14 @@ fun-q1: Longest bike ride
 fun-a1: Two weeks (753 miles)
 fun-q2: Furthest run
 fun-a2: 36 miles
-fun-q3: 
-fun-a3: 
+fun-q3:
+fun-a3:
 
 ---
 
 ### Bio
 
-![Teddy](/images/members/current/teddy.jpg)
+![Teddy]({{ site.github.url }}/images/members/current/teddy.jpg)
 
 Theodore, more commonly known as Teddy, is a species of humanoid that
 enjoys whistling, climbing trees, and running long distances with or

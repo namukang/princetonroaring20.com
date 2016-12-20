@@ -10,7 +10,7 @@ voice: Alto
 major: East Asian Studies
 hometown: Memphis, TN
 office: Tour Manager
-arrangements: 
+arrangements:
 solos: Possession, Total Eclipse of the Heart, Broken Hearts Medley, Freedom
 
 activities: Princeton Tower Club, Cheerleading, PU Rock Ensemble (PURE)
@@ -28,7 +28,7 @@ fun-a3: 5
 
 ### Bio
 
-![Desiree](/images/members/current/desiree.jpg)
+![Desiree]({{ site.github.url }}/images/members/current/desiree.jpg)
 
 Desi's origins are unknown. Most scholars postulate that one day, an
 Atlantic mermaid was feeling particularly down, so she cried tears of

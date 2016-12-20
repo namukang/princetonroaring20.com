@@ -10,7 +10,7 @@ voice: Alto
 major: English
 hometown: Potomac, Maryland
 office: Publicity Chair
-arrangements: 
+arrangements:
 solos: Bleeding Love/No One, Somebody to Love, Last Request, Sweet Home Alabama, Whataya Want From Me
 
 activities: Triangle Club, Princeton Shakespeare Company, Mathey Peer Advisers, Princeton Tower Club
@@ -21,14 +21,14 @@ fun-q1: Favorite culinary combination
 fun-a1: Pizza and ranch dressing
 fun-q2: Number of times danced in a tutu onstage
 fun-a2: Once, and never again
-fun-q3: 
-fun-a3: 
+fun-q3:
+fun-a3:
 
 ---
 
 ### Bio
 
-![Sarah Anne](/images/members/current/sarahanne.jpg)
+![Sarah Anne]({{ site.github.url }}/images/members/current/sarahanne.jpg)
 
 Sarah Anne, though born and raised in the sleepy suburb of Potomac,
 Maryland, tells people at Princeton that she is from DC because she

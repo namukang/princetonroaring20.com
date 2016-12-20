@@ -9,7 +9,7 @@ class: 2013
 voice: Soprano
 major: Mystery
 hometown: Los Altos, CA
-office: 
+office:
 arrangements: Spaceman; Come On Get Higher; Bond, James Bond; Broken Hearts Medley
 solos: Stacy's Mom
 activities: Glee Club, Princeton Opera Company, acting/directing
@@ -25,7 +25,7 @@ fun-a2: Alias
 
 ### Bio
 
-![Anna](/images/members/current/anna.jpg)
+![Anna]({{ site.github.url }}/images/members/current/anna.jpg)
 
 Anna effectively began singing the moment she left the womb. Despite
 varied attempts by numerous others to silence her, she's pretty much

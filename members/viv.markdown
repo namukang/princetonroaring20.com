@@ -5,13 +5,13 @@ title: Viv Chan
 banner: /images/profiles/viv.jpg
 
 fullname: Viv Chan
-nickname: 
+nickname:
 class: 2015
 voice: Alto
 major: Undecided
 hometown: Sydney, Australia
 office: President
-arrangements: 
+arrangements:
 solos: Broken Hearts medley
 
 activities: JV Tennis, Pi Beta Phi Sorority
@@ -28,7 +28,7 @@ fun-a3: Come at me, bro.
 
 ### Bio
 
-![Viv](/images/members/current/viv.jpg)
+![Viv]({{ site.github.url }}/images/members/current/viv.jpg)
 
 Hailing from the glorious land Down Under, Viv spent her childhood
 riding kangaroos, catching crocodiles (a la Steve Irwin) and mastering
@@ -49,4 +49,3 @@ When she isn’t being misunderstood, Viv likes dancing on the tennis
 court, singing cultured classics such as Tswift or the Backstreet Boys
 loudly in her room, and conning unfortunate individuals into giving
 her massages.
-

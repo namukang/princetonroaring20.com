@@ -10,7 +10,7 @@ voice: Soprano
 major: Art History
 hometown: Burbank, CA
 office: Performance Director
-arrangements: 
+arrangements:
 solos: Bleeding Love, Spaceman, Speechless, Someone Like You, The Way I Am
 
 activities: Princeton Triangle Club, Princeton University Players
@@ -28,7 +28,7 @@ fun-a3: Infinite.
 
 ### Bio
 
-![Mary Lou](/images/members/current/marylou.jpg)
+![Mary Lou]({{ site.github.url }}/images/members/current/marylou.jpg)
 
 Despite having a very southern-sounding first name (Mama’s from
 Dallas), Mary Lou was born and raised in SoCal, and is a true

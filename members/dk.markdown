@@ -11,7 +11,7 @@ voice: Tenor
 major: Computer Science
 hometown: Fullerton, CA
 office: Webmaster
-arrangements: 
+arrangements:
 solos: Come On Get Higher, Kiss Him Goodbye
 
 activities: Princeton ACM, Pace Center
@@ -29,7 +29,7 @@ fun-a3: 2
 
 ### Bio
 
-![DK](/images/members/current/dk.jpg)
+![DK]({{ site.github.url }}/images/members/current/dk.jpg)
 
 Growing up in Orange County under the care of his awesome
 grandparents, Daniel spent much of his childhood singing and making

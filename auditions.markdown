@@ -15,7 +15,7 @@ banner: /images/slideshow/004.jpg
 ### Audition Schedule
 
 All interested members of the classes of 2016 and 2017 are welcome
-(and encouraged) to audition for R20.  Stop back here in the fall for 
+(and encouraged) to audition for R20.  Stop back here in the fall for
 more information!
 <!--We will be having an Open House
 in our room this Sunday (Feb. 10) so please stop by and say hi!  And if
@@ -25,7 +25,7 @@ you're ready to sign up for an audition, click right above.  See you there!-->
 
 Auditions take place in our room, 071 Bloomberg.
 
-![Roaring 20 Room](/images/r20room.jpg)
+![Roaring 20 Room]({{ site.github.url }}/images/r20room.jpg)
 
 ### Audition Process
 
@@ -35,7 +35,7 @@ minutes.
 We begin the audition by introducing you to the group and getting to
 know a little bit about you - where you're from, where you live, etc.
 
-Then our Music Director, [Torin](/members/torin), will guide you
+Then our Music Director, [Torin]({{ site.github.url }}/members/torin), will guide you
 through some 5-tone scales to warm you up and test your range (though
 we definitely recommend warming up a bit on your own before the
 audition).

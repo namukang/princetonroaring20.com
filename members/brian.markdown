@@ -25,7 +25,7 @@ fun-a2: Mama's chicken and dumplings
 
 ### Bio
 
-![Brian](/images/members/current/brian.jpg)
+![Brian]({{ site.github.url }}/images/members/current/brian.jpg)
 
 When Brian is not thinking about sweet Roaring 20 tenor harmonies you
 can count on him thinking about kittens—petting them, snuggling them,

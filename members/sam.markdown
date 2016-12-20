@@ -5,13 +5,13 @@ title: Sam
 banner: /images/profiles/sam.jpg
 
 fullname: Sam Gavis-Hughson
-nickname: 
+nickname:
 class: 2015
 voice: Bass
 major: Computer Science
 hometown: Princeton, NJ
 office: Social Chair
-arrangements: 
+arrangements:
 solos: Under The Bridge
 
 activities: Fun stuff, being awesome, eating
@@ -28,7 +28,7 @@ fun-a3: 3
 
 ### Bio
 
-![Sam](/images/members/current/sam.jpg)
+![Sam]({{ site.github.url }}/images/members/current/sam.jpg)
 
 Although born to a family of two molecular biologists (don't ask him
 to be any more specific) in Boston, MA, Sam has lived almost his

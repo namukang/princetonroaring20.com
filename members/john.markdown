@@ -5,13 +5,13 @@ title: John
 banner: /images/profiles/john.jpg
 
 fullname: John Plonk
-nickname: 
+nickname:
 class: 2015
 voice: Bass
-major: 
+major:
 hometown: Durham, North Carolina
 office: Business Manager
-arrangements: 
+arrangements:
 solos: Spaceman
 
 activities: Kappa Alpha Order Fraternity, Princeton Club Baseball, Princeton Entrepreneurship Club
@@ -28,7 +28,7 @@ fun-a3: New Zealand
 
 ### Bio
 
-![John](/images/members/current/john.jpg)
+![John]({{ site.github.url }}/images/members/current/john.jpg)
 
 Despite spending the first 10 years of his life in upstate New York,
 John is a southern boy at heart. Nothing will make him happier than an

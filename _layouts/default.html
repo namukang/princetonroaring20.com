@@ -77,9 +77,9 @@
       </div>
       <div id="main">
         {% if page.title == 'Home' %}
-        <div id="slideshow" style="background-image: url({{ page.banner }})"></div>
+        <div id="slideshow" style="background-image: url({{ page.banner | prepend: site.github.url }})"></div>
         {% else %}
-        <div id="banner" style="background-image: url({{ page.banner }})"></div>
+        <div id="banner" style="background-image: url({{ page.banner | prepend: site.github.url }})"></div>
         {% endif %}
         {{ content }}
       </div>

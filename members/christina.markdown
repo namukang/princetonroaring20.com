@@ -10,7 +10,7 @@ voice: Soprano
 major: French
 hometown: New York, NY
 office:
-arrangements: 
+arrangements:
 solos: Here with Me, Hey Jude
 
 activities: The Cloister Inn, Glee Club, PU Rock Ensemble (PURE), Kappa Kappa Gamma Sorority, Princeton Opera Company, Princeton University Players (PUP), L'Avant Scene (French Theater Troupe)
@@ -28,7 +28,7 @@ fun-a3: 10+
 
 ### Bio
 
-![Christina](/images/members/current/christina.jpg)
+![Christina]({{ site.github.url }}/images/members/current/christina.jpg)
 
 Born in the land of all things great, New York City, Christina has
 spent much of her life in an all-girls school complete with

@@ -5,14 +5,14 @@ title: Jonah
 banner: /images/profiles/jonah.jpg
 
 fullname: Jonah Levi Roberts
-nickname: 
+nickname:
 class: 2013
 voice: Bass
 major: Environmental Engineering
 hometown: Farmington, ME
 office: Auditions Manager
-arrangements: 
-solos: 
+arrangements:
+solos:
 
 activities: Chapel choir, Aikido, Princeton University Hypnosis Workshop
 interests: Performance arts, nerd culture, video game history, martial arts
@@ -29,7 +29,7 @@ fun-a3: Blue belt, 1 stripe
 
 ### Bio
 
-![Jonah](/images/members/current/jonah.jpg)
+![Jonah]({{ site.github.url }}/images/members/current/jonah.jpg)
 
 Jonah was born in the heart of Appalachia. Although he loves his old
 new home in the frigid wasteland of western Maine and his new new home

@@ -13,9 +13,9 @@ the undying love of its members for each other and the group. Roaring
 
 Auditions are held for all interested freshmen and sophomores twice a
 year, in the fall and spring. If you're interested in trying out for
-R20, check out our [auditions](/auditions) page.
+R20, check out our [auditions]({{ site.github.url }}/auditions) page.
 
-### Roaring 20 History 
+### Roaring 20 History
 
 Originally founded in 1983 as an all-male, jazz-centric group called
 “Cat’s Meow”, the Roaring 20 has over time become one of Princeton’s
